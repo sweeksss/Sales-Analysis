@@ -1,0 +1,1001 @@
+﻿CustomerKey,FirstName,LastName,FullName,BirthDate,MaritalStatus,Gender,EmailAddress,YearlyIncome,Phone,DateFirstPurchase,City
+11000,Jon,Yang,Jon Yang,10/6/1971,Married,Male,jon24@adventure-works.com,90000,1 (11) 500 555-0162,1/19/2020,Rockhampton
+11001,Eugene,Huang,Eugene Huang,5/10/1976,Single,Male,eugene10@adventure-works.com,60000,1 (11) 500 555-0110,1/15/2020,Seaford
+11002,Ruben,Torres,Ruben Torres,2/9/1971,Married,Male,ruben35@adventure-works.com,60000,1 (11) 500 555-0184,1/7/2020,Hobart
+11003,Christy,Zhu,Christy Zhu,8/14/1973,Single,Female,christy12@adventure-works.com,70000,1 (11) 500 555-0162,12/29/2019,North Ryde
+11004,Elizabeth,Johnson,Elizabeth Johnson,8/5/1979,Single,Female,elizabeth5@adventure-works.com,80000,1 (11) 500 555-0131,1/23/2020,Wollongong
+11005,Julio,Ruiz,Julio Ruiz,8/1/1976,Single,Male,julio1@adventure-works.com,70000,1 (11) 500 555-0151,12/30/2019,East Brisbane
+11006,Janet,Alvarez,Janet Alvarez,12/2/1976,Single,Female,janet9@adventure-works.com,70000,1 (11) 500 555-0184,1/24/2020,Matraville
+11007,Marco,Mehta,Marco Mehta,11/6/1969,Married,Male,marco14@adventure-works.com,60000,1 (11) 500 555-0126,1/9/2020,Warrnambool
+11008,Rob,Verhoff,Rob Verhoff,7/4/1975,Single,Female,rob4@adventure-works.com,60000,1 (11) 500 555-0164,1/25/2020,Bendigo
+11009,Shannon,Carlson,Shannon Carlson,9/29/1969,Single,Male,shannon38@adventure-works.com,70000,1 (11) 500 555-0110,1/27/2020,Hervey Bay
+11010,Jacquelyn,Suarez,Jacquelyn Suarez,8/5/1969,Single,Female,jacquelyn20@adventure-works.com,70000,1 (11) 500 555-0169,1/14/2020,East Brisbane
+11011,Curtis,Lu,Curtis Lu,5/3/1969,Married,Male,curtis9@adventure-works.com,60000,1 (11) 500 555-0117,12/30/2019,East Brisbane
+11012,Lauren,Walker,Lauren Walker,1/14/1979,Married,Female,lauren41@adventure-works.com,100000,717-555-0164,3/16/2022,Bremerton
+11013,Ian,Jenkins,Ian Jenkins,8/3/1979,Married,Male,ian47@adventure-works.com,100000,817-555-0185,4/13/2022,Lebanon
+11014,Sydney,Bennett,Sydney Bennett,11/6/1973,Single,Female,sydney23@adventure-works.com,100000,431-555-0156,3/23/2022,Redmond
+11015,Chloe,Young,Chloe Young,8/26/1984,Single,Female,chloe23@adventure-works.com,30000,208-555-0142,1/18/2022,Burbank
+11016,Wyatt,Hill,Wyatt Hill,10/25/1984,Married,Male,wyatt32@adventure-works.com,30000,135-555-0171,2/9/2022,Imperial Beach
+11017,Shannon,Wang,Shannon Wang,12/24/1949,Single,Female,shannon1@adventure-works.com,20000,1 (11) 500 555-0195,1/12/2020,Sunbury
+11018,Clarence,Rai,Clarence Rai,10/6/1955,Single,Male,clarence32@adventure-works.com,30000,1 (11) 500 555-0137,1/17/2020,Bendigo
+11019,Luke,Lal,Luke Lal,9/4/1983,Single,Male,luke18@adventure-works.com,40000,262-555-0112,2/12/2022,Langley
+11020,Jordan,King,Jordan King,3/19/1984,Single,Male,jordan73@adventure-works.com,40000,550-555-0163,12/29/2021,Metchosin
+11021,Destiny,Wilson,Destiny Wilson,3/2/1984,Single,Female,destiny7@adventure-works.com,40000,622-555-0158,1/23/2022,Beaverton
+11022,Ethan,Zhang,Ethan Zhang,4/10/1984,Married,Male,ethan20@adventure-works.com,40000,589-555-0185,1/20/2022,Bellingham
+11023,Seth,Edwards,Seth Edwards,4/9/1984,Married,Male,seth46@adventure-works.com,40000,452-555-0188,2/17/2022,Bellflower
+11024,Russell,Xie,Russell Xie,3/16/1984,Married,Male,russell7@adventure-works.com,60000,746-555-0186,6/27/2022,Concord
+11025,Alejandro,Beck,Alejandro Beck,6/22/1951,Married,Male,alejandro45@adventure-works.com,10000,1 (11) 500 555-0178,1/6/2020,Hawthorne
+11026,Harold,Sai,Harold Sai,10/1/1951,Single,Male,harold3@adventure-works.com,30000,1 (11) 500 555-0131,1/23/2020,Goulburn
+11027,Jessie,Zhao,Jessie Zhao,6/5/1952,Married,Male,jessie16@adventure-works.com,30000,1 (11) 500 555-0184,1/16/2020,Warrnambool
+11028,Jill,Jimenez,Jill Jimenez,10/9/1951,Married,Female,jill13@adventure-works.com,30000,1 (11) 500 555-0116,1/26/2020,St. Leonards
+11029,Jimmy,Moreno,Jimmy Moreno,6/19/1952,Married,Male,jimmy9@adventure-works.com,30000,1 (11) 500 555-0146,1/19/2020,Bendigo
+11030,Bethany,Yuan,Bethany Yuan,2/18/1958,Married,Female,bethany10@adventure-works.com,10000,1 (11) 500 555-0182,2/5/2020,Cloverdale
+11031,Theresa,Ramos,Theresa Ramos,2/18/1953,Married,Female,theresa13@adventure-works.com,20000,1 (11) 500 555-0195,2/1/2020,Matraville
+11032,Denise,Stone,Denise Stone,12/8/1952,Married,Female,denise10@adventure-works.com,20000,1 (11) 500 555-0169,2/18/2020,Melbourne
+11033,Jaime,Nath,Jaime Nath,9/19/1958,Married,Male,jaime41@adventure-works.com,20000,1 (11) 500 555-0137,2/15/2020,Milsons Point
+11034,Ebony,Gonzalez,Ebony Gonzalez,12/16/1952,Married,Female,ebony19@adventure-works.com,20000,1 (11) 500 555-0136,2/1/2020,North Sydney
+11035,Wendy,Dominguez,Wendy Dominguez,8/23/1953,Married,Female,wendy12@adventure-works.com,10000,1 (11) 500 555-0177,2/6/2020,Cranbourne
+11036,Jennifer,Russell,Jennifer Russell,6/16/1984,Married,Female,jennifer93@adventure-works.com,60000,115-555-0183,1/22/2022,National City
+11037,Chloe,Garcia,Chloe Garcia,5/27/1983,Single,Female,chloe27@adventure-works.com,40000,229-555-0112,1/20/2022,Cliffside
+11038,Diana,Hernandez,Diana Hernandez,9/20/1953,Married,Female,diana2@adventure-works.com,10000,1 (11) 500 555-0114,2/7/2020,Lavender Bay
+11039,Marc,Martin,Marc Martin,6/16/1954,Married,Male,marc3@adventure-works.com,30000,1 (11) 500 555-0183,2/7/2020,Wollongong
+11040,Jesse,Murphy,Jesse Murphy,1/29/1983,Married,Male,jesse15@adventure-works.com,30000,961-555-0176,4/3/2022,Tacoma
+11041,Amanda,Carter,Amanda Carter,4/15/1983,Married,Female,amanda53@adventure-works.com,60000,295-555-0145,1/14/2022,Glendale
+11042,Megan,Sanchez,Megan Sanchez,12/11/1982,Married,Female,megan28@adventure-works.com,70000,404-555-0199,1/21/2022,Los Angeles
+11043,Nathan,Simmons,Nathan Simmons,8/23/1981,Married,Male,nathan11@adventure-works.com,60000,296-555-0181,5/8/2022,Glendale
+11044,Adam,Flores,Adam Flores,11/21/1954,Married,Male,adam10@adventure-works.com,20000,1 (11) 500 555-0163,2/28/2020,Hervey Bay
+11045,Leonard,Nara,Leonard Nara,11/16/1955,Single,Male,leonard18@adventure-works.com,30000,1 (11) 500 555-0151,4/10/2022,Matraville
+11046,Christine,Yuan,Christine Yuan,9/19/1955,Married,Female,christine4@adventure-works.com,30000,1 (11) 500 555-0113,2/6/2020,Lavender Bay
+11047,Jaclyn,Lu,Jaclyn Lu,8/27/1955,Married,Female,jaclyn12@adventure-works.com,30000,1 (11) 500 555-0137,2/3/2020,Geelong
+11048,Jeremy,Powell,Jeremy Powell,5/21/1956,Married,Male,jeremy26@adventure-works.com,30000,1 (11) 500 555-0183,2/10/2020,Sunbury
+11049,Carol,Rai,Carol Rai,1/15/1986,Single,Female,carol8@adventure-works.com,40000,654-555-0180,3/9/2022,Chula Vista
+11050,Alan,Zheng,Alan Zheng,3/6/1957,Married,Male,alan23@adventure-works.com,30000,1 (11) 500 555-0135,2/20/2020,Hobart
+11051,Daniel,Johnson,Daniel Johnson,1/31/1957,Single,Male,daniel18@adventure-works.com,30000,1 (11) 500 555-0155,12/29/2022,Caloundra
+11052,Heidi,Lopez,Heidi Lopez,2/3/1957,Single,Female,heidi19@adventure-works.com,40000,1 (11) 500 555-0168,2/17/2020,Matraville
+11053,Ana,Price,Ana Price,2/17/1986,Married,Female,ana0@adventure-works.com,60000,859-555-0113,1/17/2022,San Diego
+11054,Deanna,Munoz,Deanna Munoz,9/7/1957,Married,Female,deanna33@adventure-works.com,40000,1 (11) 500 555-0192,2/3/2020,Geelong
+11055,Gilbert,Raje,Gilbert Raje,9/2/1957,Married,Male,gilbert35@adventure-works.com,40000,1 (11) 500 555-0129,1/31/2020,East Brisbane
+11056,Michele,Nath,Michele Nath,10/1/1958,Married,Female,michele19@adventure-works.com,40000,1 (11) 500 555-0178,2/26/2020,Newcastle
+11057,Carl,Andersen,Carl Andersen,4/7/1970,Married,Male,carl12@adventure-works.com,70000,1 (11) 500 555-0181,2/22/2020,Lane Cove
+11058,Marc,Diaz,Marc Diaz,4/23/1965,Married,Male,marc6@adventure-works.com,80000,1 (11) 500 555-0149,3/9/2020,Findon
+11059,Ashlee,Andersen,Ashlee Andersen,9/29/1959,Single,Female,ashlee19@adventure-works.com,80000,1 (11) 500 555-0112,2/18/2022,Townsville
+11060,Jon,Zhou,Jon Zhou,9/14/1959,Married,Male,jon28@adventure-works.com,80000,1 (11) 500 555-0174,3/19/2020,Warrnambool
+11061,Todd,Gao,Todd Gao,2/20/1976,Married,Male,todd14@adventure-works.com,80000,1 (11) 500 555-0191,3/13/2020,Gold Coast
+11062,Noah,Powell,Noah Powell,3/1/1981,Married,Male,noah5@adventure-works.com,40000,767-555-0113,1/7/2022,Portland
+11063,Angela,Murphy,Angela Murphy,10/4/1980,Single,Female,angela41@adventure-works.com,40000,451-555-0162,1/12/2022,Redmond
+11064,Chase,Reed,Chase Reed,6/5/1981,Married,Male,chase21@adventure-works.com,40000,892-555-0184,1/25/2022,Downey
+11065,Jessica,Henderson,Jessica Henderson,4/8/1979,Married,Female,jessica29@adventure-works.com,60000,278-555-0186,2/10/2022,La Jolla
+11066,Grace,Butler,Grace Butler,5/27/1979,Married,Female,grace62@adventure-works.com,70000,712-555-0141,5/31/2022,Lebanon
+11067,Caleb,Carter,Caleb Carter,3/25/1982,Single,Male,caleb40@adventure-works.com,60000,944-555-0167,8/18/2022,Port Orchard
+11068,Tiffany,Liang,Tiffany Liang,9/19/1966,Single,Female,tiffany17@adventure-works.com,80000,1 (11) 500 555-0177,4/30/2022,Warrnambool
+11069,Carolyn,Navarro,Carolyn Navarro,9/17/1966,Single,Female,carolyn30@adventure-works.com,80000,1 (11) 500 555-0145,4/17/2020,Gold Coast
+11070,Willie,Raji,Willie Raji,10/2/1960,Married,Male,willie40@adventure-works.com,80000,1 (11) 500 555-0151,4/28/2020,Sunbury
+11071,Linda,Serrano,Linda Serrano,12/23/1960,Single,Female,linda31@adventure-works.com,80000,1 (11) 500 555-0130,3/1/2022,Hawthorne
+11072,Casey,Luo,Casey Luo,8/5/1960,Single,Female,casey6@adventure-works.com,80000,1 (11) 500 555-0125,3/31/2020,St. Leonards
+11073,Amy,Ye,Amy Ye,2/11/1962,Single,Female,amy16@adventure-works.com,70000,1 (11) 500 555-0185,3/23/2022,Springwood
+11074,Levi,Arun,Levi Arun,2/25/1962,Single,Male,levi6@adventure-works.com,70000,1 (11) 500 555-0127,3/23/2022,Cloverdale
+11075,Felicia,Jimenez,Felicia Jimenez,5/16/1963,Single,Female,felicia4@adventure-works.com,80000,1 (11) 500 555-0165,4/28/2020,Bendigo
+11076,Blake,Anderson,Blake Anderson,1/10/1963,Single,Male,blake9@adventure-works.com,80000,1 (11) 500 555-0113,4/21/2020,Wollongong
+11077,Leah,Ye,Leah Ye,3/19/1963,Single,Female,leah7@adventure-works.com,80000,1 (11) 500 555-0154,4/15/2020,Melton
+11078,Gina,Martin,Gina Martin,1/6/1985,Single,Female,gina1@adventure-works.com,40000,196-555-0114,2/15/2022,Cliffside
+11079,Donald,Gonzalez,Donald Gonzalez,3/7/1970,Single,Male,donald20@adventure-works.com,160000,1 (11) 500 555-0137,3/15/2022,Geelong
+11080,Damien,Chander,Damien Chander,1/13/1965,Married,Male,damien32@adventure-works.com,170000,1 (11) 500 555-0111,4/10/2020,Perth
+11081,Savannah,Baker,Savannah Baker,1/21/1972,Married,Female,savannah39@adventure-works.com,120000,478-555-0117,2/12/2022,Concord
+11082,Angela,Butler,Angela Butler,2/1/1972,Single,Female,angela17@adventure-works.com,130000,579-555-0195,1/22/2022,Fremont
+11083,Alyssa,Cox,Alyssa Cox,3/11/1977,Married,Female,alyssa37@adventure-works.com,130000,561-555-0140,1/6/2022,Lincoln Acres
+11084,Lucas,Phillips,Lucas Phillips,3/12/1963,Single,Male,lucas7@adventure-works.com,80000,863-555-0172,1/4/2022,Lebanon
+11085,Emily,Johnson,Emily Johnson,1/16/1963,Single,Female,emily1@adventure-works.com,60000,850-555-0184,12/6/2022,Newport Beach
+11086,Ryan,Brown,Ryan Brown,6/22/1963,Married,Male,ryan43@adventure-works.com,70000,539-555-0198,7/2/2022,Santa Monica
+11087,Tamara,Liang,Tamara Liang,4/2/1963,Married,Female,tamara6@adventure-works.com,70000,178-555-0152,2/25/2022,Chula Vista
+11088,Hunter,Davis,Hunter Davis,5/25/1963,Married,Male,hunter64@adventure-works.com,80000,612-555-0141,1/13/2022,San Diego
+11089,Abigail,Price,Abigail Price,8/5/1962,Single,Female,abigail25@adventure-works.com,80000,532-555-0117,12/29/2021,Long Beach
+11090,Trevor,Bryant,Trevor Bryant,12/13/1968,Single,Male,trevor18@adventure-works.com,90000,853-555-0174,8/7/2020,Los Angeles
+11091,Dalton,Perez,Dalton Perez,10/2/1962,Married,Male,dalton37@adventure-works.com,90000,559-555-0115,1/29/2022,Haney
+11092,Cheryl,Diaz,Cheryl Diaz,11/2/1972,Married,Female,cheryl4@adventure-works.com,90000,1 (11) 500 555-0192,4/8/2020,East Brisbane
+11093,Aimee,He,Aimee He,9/6/1978,Married,Female,aimee13@adventure-works.com,100000,1 (11) 500 555-0161,4/7/2020,Wollongong
+11094,Cedric,Ma,Cedric Ma,9/29/1967,Single,Male,cedric15@adventure-works.com,70000,1 (11) 500 555-0115,4/7/2022,Cranbourne
+11095,Chad,Kumar,Chad Kumar,2/29/1968,Single,Male,chad9@adventure-works.com,70000,1 (11) 500 555-0151,4/1/2020,Port Macquarie
+11096,Andrés,Anand,Andrés Anand,2/7/1968,Married,Male,andrés18@adventure-works.com,60000,1 (11) 500 555-0184,4/11/2020,North Sydney
+11097,Edwin,Nara,Edwin Nara,10/23/1972,Married,Male,edwin39@adventure-works.com,60000,1 (11) 500 555-0112,4/4/2020,Warrnambool
+11098,Mallory,Rubio,Mallory Rubio,10/29/1966,Single,Female,mallory7@adventure-works.com,60000,1 (11) 500 555-0157,2/11/2022,Rhodes
+11099,Adam,Ross,Adam Ross,9/5/1966,Married,Male,adam2@adventure-works.com,60000,1 (11) 500 555-0186,4/7/2020,Port Macquarie
+11100,Latasha,Navarro,Latasha Navarro,3/15/1966,Single,Female,latasha10@adventure-works.com,60000,1 (11) 500 555-0123,4/16/2020,Cloverdale
+11101,Abby,Sai,Abby Sai,11/5/1970,Single,Female,abby4@adventure-works.com,70000,1 (11) 500 555-0174,4/29/2020,Cranbourne
+11102,Julia,Nelson,Julia Nelson,10/19/1970,Single,Female,julia7@adventure-works.com,80000,1 (11) 500 555-0124,7/16/2022,Sydney
+11103,Cassie,Chande,Cassie Chande,4/12/1981,Single,Female,cassie13@adventure-works.com,70000,1 (11) 500 555-0166,4/15/2020,Darlinghurst
+11104,Edgar,Sara,Edgar Sara,3/8/1975,Married,Male,edgar11@adventure-works.com,70000,1 (11) 500 555-0125,5/4/2020,Gold Coast
+11105,Candace,Fernandez,Candace Fernandez,6/27/1970,Single,Female,candace15@adventure-works.com,70000,1 (11) 500 555-0162,5/14/2020,Matraville
+11106,Jessie,Liu,Jessie Liu,3/11/1970,Single,Male,jessie9@adventure-works.com,70000,1 (11) 500 555-0163,5/18/2020,Warrnambool
+11107,Bianca,Lin,Bianca Lin,3/4/1976,Married,Female,bianca7@adventure-works.com,90000,1 (11) 500 555-0121,5/1/2020,St. Leonards
+11108,Kari,Alvarez,Kari Alvarez,1/10/1969,Single,Female,kari25@adventure-works.com,70000,1 (11) 500 555-0169,5/3/2020,Port Macquarie
+11109,Ruben,Kapoor,Ruben Kapoor,4/30/1980,Single,Male,ruben1@adventure-works.com,70000,1 (11) 500 555-0132,5/10/2020,South Melbourne
+11110,Curtis,Yang,Curtis Yang,12/4/1967,Married,Male,curtis5@adventure-works.com,60000,1 (11) 500 555-0127,5/1/2020,Darlinghurst
+11111,Meredith,Gutierrez,Meredith Gutierrez,8/23/1967,Married,Female,meredith34@adventure-works.com,60000,1 (11) 500 555-0179,5/20/2020,Geelong
+11112,Crystal,Wang,Crystal Wang,3/8/1968,Married,Female,crystal3@adventure-works.com,60000,1 (11) 500 555-0134,5/25/2020,Hervey Bay
+11113,Micheal,Blanco,Micheal Blanco,2/17/1973,Married,Male,micheal11@adventure-works.com,70000,1 (11) 500 555-0131,2/1/2022,Perth
+11114,Leslie,Moreno,Leslie Moreno,11/25/1967,Single,Female,leslie7@adventure-works.com,70000,1 (11) 500 555-0115,3/18/2022,Rhodes
+11115,Alvin,Cai,Alvin Cai,8/12/1967,Married,Male,alvin20@adventure-works.com,70000,1 (11) 500 555-0191,2/10/2022,St. Leonards
+11116,Clinton,Carlson,Clinton Carlson,4/2/1979,Married,Male,clinton14@adventure-works.com,70000,1 (11) 500 555-0184,3/15/2022,Sydney
+11117,April,Deng,April Deng,8/21/1966,Married,Female,april1@adventure-works.com,70000,1 (11) 500 555-0182,5/6/2020,Matraville
+11118,Alvin,Zeng,Alvin Zeng,12/31/1962,Single,Male,alvin21@adventure-works.com,80000,1 (11) 500 555-0174,7/10/2022,Lavender Bay
+11119,Evan,James,Evan James,10/7/1940,Single,Male,evan8@adventure-works.com,30000,1 (11) 500 555-0187,2/3/2022,Port Macquarie
+11120,Beth,Jiménez,Beth Jiménez,2/6/1942,Single,Female,beth8@adventure-works.com,40000,1 (11) 500 555-0164,5/14/2020,Sydney
+11121,Orlando,Suarez,Orlando Suarez,5/18/1966,Married,Male,orlando19@adventure-works.com,70000,1 (11) 500 555-0198,6/24/2022,Newcastle
+11122,Byron,Vazquez,Byron Vazquez,9/30/1965,Married,Male,byron9@adventure-works.com,70000,1 (11) 500 555-0136,2/21/2022,North Sydney
+11123,Philip,Alvarez,Philip Alvarez,12/18/1965,Married,Male,philip4@adventure-works.com,70000,1 (11) 500 555-0191,4/17/2022,Sunbury
+11124,Ross,Jordan,Ross Jordan,7/23/1968,Single,Male,ross1@adventure-works.com,80000,1 (11) 500 555-0126,5/5/2020,Warrnambool
+11125,Dana,Navarro,Dana Navarro,10/6/1961,Single,Female,dana2@adventure-works.com,70000,1 (11) 500 555-0172,1/31/2022,Seaford
+11126,Shaun,Carson,Shaun Carson,10/5/1954,Married,Male,shaun16@adventure-works.com,10000,1 (11) 500 555-0155,5/28/2020,North Ryde
+11127,Jan,Edwards,Jan Edwards,4/19/1981,Married,Female,jan11@adventure-works.com,40000,111-555-0118,4/10/2022,San Gabriel
+11128,Samantha,Long,Samantha Long,6/3/1981,Married,Female,samantha35@adventure-works.com,40000,175-555-0139,6/19/2022,Renton
+11129,Julia,Wright,Julia Wright,2/1/1981,Single,Female,julia17@adventure-works.com,40000,456-555-0174,8/6/2020,Sedro Woolley
+11130,Caroline,Russell,Caroline Russell,7/5/1985,Married,Female,caroline21@adventure-works.com,30000,424-555-0137,12/9/2022,Lebanon
+11131,Amanda,Rivera,Amanda Rivera,9/9/1985,Married,Female,amanda7@adventure-works.com,30000,918-555-0126,10/18/2022,Haney
+11132,Melissa,Richardson,Melissa Richardson,4/25/1986,Single,Female,melissa31@adventure-works.com,30000,928-555-0118,4/9/2022,Langford
+11133,Angela,Griffin,Angela Griffin,3/8/1986,Single,Female,angela23@adventure-works.com,30000,598-555-0174,12/30/2022,Lake Oswego
+11134,Larry,Townsend,Larry Townsend,2/22/1957,Single,Male,larry14@adventure-works.com,10000,1 (11) 500 555-0130,5/3/2020,Perth
+11135,Marcus,Harris,Marcus Harris,5/2/1985,Single,Male,marcus14@adventure-works.com,30000,442-555-0119,4/18/2022,Burlingame
+11136,Brianna,Morgan,Brianna Morgan,4/24/1984,Single,Female,brianna30@adventure-works.com,40000,954-555-0117,1/3/2022,Metchosin
+11137,Jasmine,Taylor,Jasmine Taylor,1/17/1984,Married,Female,jasmine7@adventure-works.com,40000,557-555-0146,7/31/2022,Spokane
+11138,Lauren,Davis,Lauren Davis,3/14/1984,Married,Female,lauren23@adventure-works.com,40000,832-555-0121,9/19/2022,Glendale
+11139,Tanya,Moreno,Tanya Moreno,11/5/1949,Single,Female,tanya2@adventure-works.com,30000,1 (11) 500 555-0185,9/14/2022,Cloverdale
+11140,Javier,Alvarez,Javier Alvarez,8/11/1982,Single,Male,javier1@adventure-works.com,30000,763-555-0134,3/19/2022,Burbank
+11141,Nicole,Ramirez,Nicole Ramirez,12/19/1982,Married,Female,nicole42@adventure-works.com,40000,152-555-0162,5/16/2022,Daly City
+11142,Eduardo,Patterson,Eduardo Patterson,2/11/1983,Single,Male,eduardo55@adventure-works.com,40000,190-555-0184,2/13/2022,Langford
+11143,Jonathan,Henderson,Jonathan Henderson,8/4/1982,Married,Male,jonathan4@adventure-works.com,40000,149-555-0113,6/15/2022,Lakewood
+11144,Edward,Hernandez,Edward Hernandez,3/8/1985,Single,Male,edward48@adventure-works.com,40000,178-555-0196,1/25/2022,Ballard
+11145,Jasmine,Coleman,Jasmine Coleman,6/6/1985,Single,Female,jasmine46@adventure-works.com,40000,857-555-0115,1/25/2022,Beaverton
+11146,Karla,Goel,Karla Goel,2/22/1945,Single,Female,karla20@adventure-works.com,40000,1 (11) 500 555-0137,2/5/2022,Matraville
+11147,Ernest,Wu,Ernest Wu,8/4/1944,Married,Male,ernest6@adventure-works.com,60000,1 (11) 500 555-0139,5/13/2020,Warrnambool
+11148,Ross,Vazquez,Ross Vazquez,2/13/1947,Married,Male,ross32@adventure-works.com,40000,1 (11) 500 555-0163,3/7/2022,East Brisbane
+11149,Theodore,Gill,Theodore Gill,10/18/1946,Married,Male,theodore14@adventure-works.com,40000,1 (11) 500 555-0194,6/4/2022,Hervey Bay
+11150,Russell,Shen,Russell Shen,9/12/1946,Single,Male,russell6@adventure-works.com,40000,1 (11) 500 555-0191,3/27/2022,Sunbury
+11151,Melinda,Gill,Melinda Gill,8/25/1947,Single,Female,melinda9@adventure-works.com,60000,1 (11) 500 555-0117,5/15/2020,Sydney
+11152,James,Williams,James Williams,7/9/1981,Single,Male,james77@adventure-works.com,40000,355-555-0153,1/9/2022,Puyallup
+11153,Angela,James,Angela James,12/21/1981,Married,Female,angela34@adventure-works.com,40000,847-555-0111,3/29/2022,Renton
+11154,Megan,Walker,Megan Walker,2/18/1982,Single,Female,megan25@adventure-works.com,40000,918-555-0186,1/10/2022,Woodburn
+11155,Hunter,Robinson,Hunter Robinson,7/25/1981,Single,Male,hunter50@adventure-works.com,40000,891-555-0125,1/6/2022,Burbank
+11156,Maria,Roberts,Maria Roberts,8/6/1981,Single,Female,maria47@adventure-works.com,40000,158-555-0199,1/8/2022,Lakewood
+11157,Hannah,Long,Hannah Long,12/8/1980,Married,Female,hannah32@adventure-works.com,40000,974-555-0177,7/24/2022,Tacoma
+11158,Jason,Wright,Jason Wright,4/6/1981,Single,Male,jason46@adventure-works.com,40000,694-555-0176,1/19/2022,San Gabriel
+11159,Brianna,Hughes,Brianna Hughes,3/16/1981,Single,Female,brianna57@adventure-works.com,40000,319-555-0183,9/8/2022,Woodland Hills
+11160,Maurice,Tang,Maurice Tang,7/8/1979,Single,Male,maurice4@adventure-works.com,40000,947-555-0172,2/21/2022,Concord
+11161,Emily,Wood,Emily Wood,10/20/1979,Single,Female,emily27@adventure-works.com,40000,184-555-0114,6/1/2022,Concord
+11162,Chase,Cox,Chase Cox,9/2/1979,Single,Male,chase10@adventure-works.com,40000,764-555-0116,2/18/2022,La Jolla
+11163,Gabriel,Wang,Gabriel Wang,6/18/1980,Married,Male,gabriel21@adventure-works.com,40000,617-555-0150,5/1/2022,Spring Valley
+11164,Devin,Brooks,Devin Brooks,11/2/1979,Single,Male,devin63@adventure-works.com,40000,502-555-0138,4/27/2022,Torrance
+11165,Jocelyn,Alexander,Jocelyn Alexander,1/15/1979,Married,Female,jocelyn18@adventure-works.com,60000,354-555-0134,5/25/2022,Oakland
+11166,Ashley,Martinez,Ashley Martinez,10/22/1977,Single,Female,ashley18@adventure-works.com,70000,131-555-0194,10/14/2022,Olympia
+11167,Jasmine,Barnes,Jasmine Barnes,1/29/1978,Single,Female,jasmine43@adventure-works.com,80000,178-555-0156,1/7/2022,Issaquah
+11168,David,Rodriguez,David Rodriguez,11/12/1973,Single,Male,david83@adventure-works.com,80000,730-555-0128,1/15/2022,Oakland
+11169,Bryce,Richardson,Bryce Richardson,12/20/1973,Married,Male,bryce8@adventure-works.com,90000,178-555-0176,5/26/2022,Coronado
+11170,Carol,Howard,Carol Howard,8/4/1973,Married,Female,carol5@adventure-works.com,90000,845-555-0127,8/26/2022,Burien
+11171,Jonathan,Hill,Jonathan Hill,10/5/1978,Single,Male,jonathan43@adventure-works.com,100000,134-555-0196,8/20/2020,Woodland Hills
+11172,Gabrielle,Adams,Gabrielle Adams,5/20/1973,Married,Female,gabrielle58@adventure-works.com,100000,403-555-0152,5/3/2022,Lynnwood
+11173,Sarah,Thomas,Sarah Thomas,2/28/1973,Single,Female,sarah13@adventure-works.com,110000,868-555-0188,3/2/2022,W. Linn
+11174,Nicholas,Robinson,Nicholas Robinson,1/9/1973,Married,Male,nicholas19@adventure-works.com,110000,949-555-0138,7/13/2022,Los Angeles
+11175,Luis,Wang,Luis Wang,9/1/1968,Single,Male,luis24@adventure-works.com,70000,418-555-0127,8/28/2020,Beverly Hills
+11176,Mason,Roberts,Mason Roberts,1/21/1979,Married,Male,mason25@adventure-works.com,90000,539-555-0162,2/2/2022,Haney
+11177,Jose,Flores,Jose Flores,1/1/1948,Married,Male,jose6@adventure-works.com,110000,157-555-0182,3/29/2022,San Diego
+11178,Nathan,Johnson,Nathan Johnson,8/20/1954,Married,Male,nathan55@adventure-works.com,100000,117-555-0182,2/21/2022,Lakewood
+11179,Molly,Rodriguez,Molly Rodriguez,12/8/1959,Married,Female,molly18@adventure-works.com,120000,135-555-0185,3/12/2022,Beverly Hills
+11180,April,Anand,April Anand,7/1/1948,Married,Female,april18@adventure-works.com,160000,702-555-0144,3/17/2022,Chula Vista
+11181,Devin,Martin,Devin Martin,2/1/1960,Married,Male,devin13@adventure-works.com,170000,735-555-0197,5/7/2022,Los Angeles
+11182,Stephanie,Torres,Stephanie Torres,2/22/1950,Single,Female,stephanie19@adventure-works.com,70000,567-555-0176,8/28/2022,Sedro Woolley
+11183,Jasmine,Lee,Jasmine Lee,1/12/1950,Single,Female,jasmine19@adventure-works.com,70000,147-555-0199,4/30/2022,Santa Cruz
+11184,Meghan,Hernandez,Meghan Hernandez,11/13/1955,Single,Female,meghan3@adventure-works.com,70000,967-555-0188,8/10/2022,Concord
+11185,Ashley,Henderson,Ashley Henderson,4/7/1950,Single,Female,ashley31@adventure-works.com,70000,173-555-0121,2/21/2022,Metchosin
+11186,Sarah,Price,Sarah Price,11/18/1949,Single,Female,sarah25@adventure-works.com,70000,180-555-0133,10/18/2022,Palo Alto
+11187,Jennifer,Cooper,Jennifer Cooper,8/21/1949,Married,Female,jennifer63@adventure-works.com,60000,857-555-0111,4/3/2022,Burien
+11188,Catherine,Morris,Catherine Morris,3/6/1950,Married,Female,catherine16@adventure-works.com,60000,795-555-0117,11/1/2022,San Gabriel
+11189,Lawrence,Blanco,Lawrence Blanco,1/12/1950,Single,Male,lawrence14@adventure-works.com,60000,656-555-0171,8/26/2020,Bellingham
+11190,Carson,Bryant,Carson Bryant,12/20/1949,Married,Male,carson17@adventure-works.com,70000,240-555-0142,8/28/2022,Beverly Hills
+11191,Kristi,Perez,Kristi Perez,6/17/1951,Single,Female,kristi39@adventure-works.com,70000,123-555-0181,8/11/2020,Colma
+11192,James,Brown,James Brown,3/13/1951,Married,Male,james79@adventure-works.com,60000,725-555-0117,6/23/2022,Seattle
+11193,Ian,Gray,Ian Gray,8/13/1950,Married,Male,ian72@adventure-works.com,60000,596-555-0190,2/25/2022,Woodburn
+11194,Jacqueline,Price,Jacqueline Price,12/8/1950,Married,Female,jacqueline0@adventure-works.com,60000,266-555-0112,3/13/2022,Palo Alto
+11195,Megan,Henderson,Megan Henderson,8/10/1951,Married,Female,megan55@adventure-works.com,60000,560-555-0150,4/14/2022,Renton
+11196,Alfredo,Romero,Alfredo Romero,12/5/1951,Married,Male,alfredo10@adventure-works.com,60000,342-555-0110,3/3/2022,Beaverton
+11197,Andrea,Morris,Andrea Morris,12/16/1951,Married,Female,andrea18@adventure-works.com,70000,715-555-0178,5/2/2022,Seattle
+11198,Brooke,Sanders,Brooke Sanders,5/25/1952,Single,Female,brooke3@adventure-works.com,70000,215-555-0156,2/5/2022,Santa Cruz
+11199,Jacqueline,Bennett,Jacqueline Bennett,11/2/1957,Married,Female,jacqueline1@adventure-works.com,70000,413-555-0174,3/18/2022,Burlingame
+11200,Jason,Griffin,Jason Griffin,5/21/1953,Married,Male,jason18@adventure-works.com,70000,232-555-0160,2/7/2022,Victoria
+11201,Amanda,Foster,Amanda Foster,2/14/1953,Married,Female,amanda37@adventure-works.com,70000,505-555-0159,7/1/2022,Santa Monica
+11202,Alexia,Price,Alexia Price,8/22/1958,Married,Female,alexia0@adventure-works.com,80000,552-555-0118,9/15/2022,Lakewood
+11203,Luis,Diaz,Luis Diaz,8/18/1959,Married,Male,luis21@adventure-works.com,40000,171-555-0126,2/20/2022,Port Hammond
+11204,Destiny,Rivera,Destiny Rivera,11/29/1953,Married,Female,destiny33@adventure-works.com,40000,743-555-0111,8/9/2022,Beaverton
+11205,Abby,Fernandez,Abby Fernandez,1/21/1954,Married,Female,abby13@adventure-works.com,40000,134-555-0119,7/27/2022,Burien
+11206,Blake,Flores,Blake Flores,3/24/1954,Married,Male,blake60@adventure-works.com,60000,975-555-0163,5/11/2022,Lynnwood
+11207,Danielle,Cox,Danielle Cox,1/16/1954,Single,Female,danielle12@adventure-works.com,60000,396-555-0158,1/31/2022,Renton
+11208,Maria,Reed,Maria Reed,8/3/1953,Married,Female,maria4@adventure-works.com,60000,156-555-0163,3/4/2022,Glendale
+11209,Allison,Evans,Allison Evans,7/12/1953,Married,Female,allison21@adventure-works.com,60000,988-555-0151,3/25/2022,Lincoln Acres
+11210,Edward,Wood,Edward Wood,12/6/1953,Married,Male,edward50@adventure-works.com,70000,229-555-0114,5/6/2022,West Covina
+11211,Samantha,Russell,Samantha Russell,10/8/1960,Married,Female,samantha42@adventure-works.com,40000,547-555-0121,2/1/2022,Haney
+11212,Chloe,Campbell,Chloe Campbell,5/5/1955,Married,Female,chloe4@adventure-works.com,40000,205-555-0169,1/30/2022,Metchosin
+11213,Stephanie,Murphy,Stephanie Murphy,11/11/1954,Single,Female,stephanie11@adventure-works.com,60000,293-555-0151,3/28/2022,Edmonds
+11214,Charles,Miller,Charles Miller,5/7/1955,Single,Male,charles9@adventure-works.com,60000,389-555-0115,8/14/2022,Milwaukie
+11215,Ana,Perry,Ana Perry,6/17/1961,Married,Female,ana7@adventure-works.com,40000,446-555-0134,2/15/2022,Royal Oak
+11216,Jasmine,Torres,Jasmine Torres,11/17/1955,Single,Female,jasmine32@adventure-works.com,60000,939-555-0130,8/15/2020,Portland
+11217,Natalie,Adams,Natalie Adams,8/11/1955,Single,Female,natalie58@adventure-works.com,60000,300-555-0150,8/10/2020,Portland
+11218,Olivia,Brown,Olivia Brown,9/7/1961,Single,Female,olivia4@adventure-works.com,60000,414-555-0147,2/28/2022,Tacoma
+11219,Charles,Cook,Charles Cook,5/31/1956,Married,Male,charles69@adventure-works.com,60000,755-555-0111,10/29/2022,Woodburn
+11220,Erica,Huang,Erica Huang,2/19/1961,Married,Female,erica5@adventure-works.com,60000,618-555-0157,3/14/2022,Colma
+11221,Nathan,Perry,Nathan Perry,12/8/1955,Married,Male,nathan3@adventure-works.com,70000,271-555-0191,4/7/2022,Lakewood
+11222,Alexandra,Rivera,Alexandra Rivera,2/14/1956,Married,Female,alexandra11@adventure-works.com,80000,488-555-0143,11/1/2022,Santa Monica
+11223,Hailey,Patterson,Hailey Patterson,3/15/1957,Single,Female,hailey30@adventure-works.com,70000,480-555-0126,1/29/2022,Langley
+11224,Tiffany,Li,Tiffany Li,3/5/1957,Single,Female,tiffany3@adventure-works.com,70000,197-555-0118,8/7/2020,Burien
+11225,Madison,Lee,Madison Lee,2/12/1962,Married,Female,madison22@adventure-works.com,60000,471-555-0142,6/22/2022,Renton
+11226,Sydney,Ross,Sydney Ross,9/23/1962,Married,Female,sydney26@adventure-works.com,60000,219-555-0146,2/21/2022,W. Linn
+11227,Marshall,Chavez,Marshall Chavez,8/8/1962,Single,Male,marshall35@adventure-works.com,60000,712-555-0116,8/3/2020,Colma
+11228,Ashley,Jones,Ashley Jones,10/16/1956,Married,Female,ashley3@adventure-works.com,60000,996-555-0169,10/25/2022,El Cajon
+11229,Adrian,Stewart,Adrian Stewart,6/1/1957,Single,Male,adrian21@adventure-works.com,70000,812-555-0122,7/27/2022,Redwood City
+11230,Amber,Turner,Amber Turner,9/30/1956,Married,Female,amber4@adventure-works.com,70000,155-555-0131,7/16/2022,Santa Monica
+11231,Dennis,Zhang,Dennis Zhang,11/11/1963,Married,Male,dennis1@adventure-works.com,60000,710-555-0134,2/10/2022,Bremerton
+11232,Hailey,Bryant,Hailey Bryant,3/27/1958,Married,Female,hailey38@adventure-works.com,60000,156-555-0195,9/20/2022,Everett
+11233,Todd,Li,Todd Li,9/6/1963,Married,Male,todd5@adventure-works.com,70000,680-555-0147,2/8/2022,Berkeley
+11234,Anna,Griffin,Anna Griffin,5/19/1958,Single,Female,anna46@adventure-works.com,70000,965-555-0146,2/8/2022,Long Beach
+11235,Angel,Stewart,Angel Stewart,8/7/1957,Married,Male,angel24@adventure-works.com,70000,540-555-0122,7/4/2022,Ballard
+11236,Jeremy,Butler,Jeremy Butler,9/2/1957,Single,Male,jeremy29@adventure-works.com,70000,980-555-0117,10/3/2022,Bellingham
+11237,Clarence,Anand,Clarence Anand,3/22/1964,Single,Male,clarence36@adventure-works.com,130000,1 (11) 500 555-0191,9/5/2020,Solingen
+11238,Mayra,Prasad,Mayra Prasad,2/7/1964,Single,Female,mayra9@adventure-works.com,130000,1 (11) 500 555-0116,1/6/2020,Birmingham
+11239,Latoya,Goel,Latoya Goel,10/2/1969,Married,Female,latoya18@adventure-works.com,130000,1 (11) 500 555-0149,1/19/2020,London
+11240,Anne,Hernandez,Anne Hernandez,6/9/1964,Married,Female,anne4@adventure-works.com,160000,1 (11) 500 555-0119,2/27/2020,Watford
+11241,Lisa,Cai,Lisa Cai,4/6/1974,Single,Female,lisa24@adventure-works.com,100000,1 (11) 500 555-0125,9/10/2021,Les Ulis
+11242,Larry,Munoz,Larry Munoz,5/11/1963,Married,Male,larry9@adventure-works.com,110000,1 (11) 500 555-0193,9/19/2021,Versailles
+11243,Robin,Alvarez,Robin Alvarez,4/8/1963,Married,Female,robin2@adventure-works.com,150000,1 (11) 500 555-0198,2/21/2020,Esher-Molesey
+11244,Alexis,Coleman,Alexis Coleman,11/22/1968,Single,Female,alexis28@adventure-works.com,170000,1 (11) 500 555-0115,2/12/2020,Runcorn
+11245,Ricky,Vazquez,Ricky Vazquez,4/26/1962,Married,Male,ricky15@adventure-works.com,120000,1 (11) 500 555-0147,9/26/2020,Hamburg
+11246,Latasha,Rubio,Latasha Rubio,4/8/1962,Married,Female,latasha21@adventure-works.com,120000,1 (11) 500 555-0178,10/3/2020,Hamburg
+11247,Claudia,Zhou,Claudia Zhou,12/4/1961,Single,Female,claudia7@adventure-works.com,130000,1 (11) 500 555-0116,2/18/2020,Lancaster
+11248,Tristan,Alexander,Tristan Alexander,3/22/1966,Married,Male,tristan19@adventure-works.com,110000,1 (11) 500 555-0124,7/14/2022,Saint-Denis
+11249,Cindy,Patel,Cindy Patel,7/9/1966,Married,Female,cindy3@adventure-works.com,130000,1 (11) 500 555-0149,10/9/2020,Sulzbach Taunus
+11250,Shannon,Liu,Shannon Liu,3/8/1966,Married,Female,shannon4@adventure-works.com,170000,1 (11) 500 555-0119,3/17/2020,Woolston
+11251,Xavier,Long,Xavier Long,1/1/1938,Single,Male,xavier51@adventure-works.com,30000,243-555-0114,10/18/2022,Haney
+11252,Nicholas,Thompson,Nicholas Thompson,12/5/1937,Single,Male,nicholas16@adventure-works.com,90000,377-555-0147,8/14/2020,Lemon Grove
+11253,José,Hernandez,José Hernandez,8/24/1949,Married,Male,josé54@adventure-works.com,60000,712-555-0130,3/1/2022,Victoria
+11254,Johnathan,Vance,Johnathan Vance,8/31/1938,Married,Male,johnathan5@adventure-works.com,70000,494-555-0166,11/23/2022,Burien
+11255,Colin,Lin,Colin Lin,10/2/1938,Married,Male,colin8@adventure-works.com,70000,599-555-0132,2/23/2022,Burien
+11256,Katelyn,Hernandez,Katelyn Hernandez,3/20/1939,Married,Female,katelyn42@adventure-works.com,70000,249-555-0116,4/15/2022,Lynnwood
+11257,Jacqueline,Powell,Jacqueline Powell,7/6/1938,Single,Female,jacqueline9@adventure-works.com,120000,796-555-0111,8/24/2020,Newport Beach
+11258,Xavier,Hill,Xavier Hill,12/26/1938,Married,Male,xavier26@adventure-works.com,120000,559-555-0149,5/21/2022,Palo Alto
+11259,Victoria,Stewart,Victoria Stewart,9/24/1970,Married,Female,victoria24@adventure-works.com,100000,230-555-0139,9/4/2020,Salem
+11260,Katelyn,Kelly,Katelyn Kelly,4/8/1976,Married,Female,katelyn1@adventure-works.com,110000,507-555-0132,2/5/2022,Burlingame
+11261,Stephanie,Collins,Stephanie Collins,10/22/1970,Married,Female,stephanie52@adventure-works.com,130000,209-555-0173,9/27/2020,San Diego
+11262,Jennifer,Simmons,Jennifer Simmons,5/1/1975,Married,Female,jennifer88@adventure-works.com,80000,148-555-0115,2/27/2022,Port Hammond
+11263,Trinity,Richardson,Trinity Richardson,3/11/1970,Married,Female,trinity9@adventure-works.com,90000,111-555-0116,8/29/2020,Burien
+11264,Eduardo,Martin,Eduardo Martin,12/15/1969,Single,Male,eduardo13@adventure-works.com,90000,342-555-0195,1/2/2022,Issaquah
+11265,Elizabeth,Jones,Elizabeth Jones,1/10/1970,Married,Female,elizabeth7@adventure-works.com,90000,941-555-0110,1/3/2022,Kirkland
+11266,Taylor,Howard,Taylor Howard,11/2/1969,Single,Female,taylor14@adventure-works.com,90000,162-555-0131,9/10/2020,Port Orchard
+11267,David,Diaz,David Diaz,9/29/1975,Single,Male,david55@adventure-works.com,120000,613-555-0119,9/17/2020,Burlingame
+11268,Katelyn,Carter,Katelyn Carter,10/31/1969,Married,Female,katelyn33@adventure-works.com,130000,103-555-0195,5/29/2022,Coronado
+11269,Ryan,Foster,Ryan Foster,10/10/1975,Married,Male,ryan19@adventure-works.com,130000,961-555-0133,8/22/2022,Daly City
+11270,Robert,Lee,Robert Lee,5/1/1975,Married,Male,robert82@adventure-works.com,130000,447-555-0174,9/10/2020,Lakewood
+11271,Danielle,Reed,Danielle Reed,12/3/1969,Single,Female,danielle23@adventure-works.com,150000,136-555-0114,9/27/2020,San Francisco
+11272,Lauren,Martinez,Lauren Martinez,5/10/1962,Single,Female,lauren35@adventure-works.com,70000,977-555-0117,9/19/2020,Beverly Hills
+11273,Nathan,Lal,Nathan Lal,3/31/1962,Married,Male,nathan26@adventure-works.com,90000,147-555-0121,5/14/2022,La Jolla
+11274,Kyle,Foster,Kyle Foster,10/10/1939,Married,Male,kyle11@adventure-works.com,50000,846-555-0126,8/29/2020,Bellingham
+11275,Jenny,Rai,Jenny Rai,7/18/1939,Married,Female,jenny40@adventure-works.com,80000,780-555-0119,8/30/2020,Colma
+11276,Nancy,Chapman,Nancy Chapman,9/15/1974,Married,Female,nancy7@adventure-works.com,80000,909-555-0129,1/29/2022,Cliffside
+11277,Charles,Jackson,Charles Jackson,12/7/1968,Married,Male,charles15@adventure-works.com,80000,194-555-0175,2/2/2022,Royal Oak
+11278,Jonathan,Phillips,Jonathan Phillips,2/16/1969,Single,Male,jonathan35@adventure-works.com,90000,967-555-0176,9/16/2020,Edmonds
+11279,Amanda,Cook,Amanda Cook,9/8/1974,Married,Female,amanda3@adventure-works.com,90000,252-555-0177,3/3/2022,Everett
+11280,Robert,Collins,Robert Collins,2/17/1969,Married,Male,robert45@adventure-works.com,90000,966-555-0171,7/1/2022,Lynnwood
+11281,Megan,Barnes,Megan Barnes,10/6/1974,Single,Female,megan53@adventure-works.com,110000,807-555-0156,9/13/2020,Burbank
+11282,Christian,Thomas,Christian Thomas,7/16/1967,Married,Male,christian46@adventure-works.com,90000,692-555-0172,8/31/2020,Burien
+11283,Arturo,Lal,Arturo Lal,4/24/1968,Married,Male,arturo33@adventure-works.com,110000,638-555-0164,5/29/2022,Berkeley
+11284,Theresa,Serrano,Theresa Serrano,9/24/1967,Married,Female,theresa12@adventure-works.com,110000,777-555-0162,2/6/2022,Chula Vista
+11285,Jeremy,Anderson,Jeremy Anderson,3/15/1973,Married,Male,jeremy2@adventure-works.com,120000,940-555-0176,7/27/2022,Fremont
+11286,Hunter,Griffin,Hunter Griffin,8/31/1967,Married,Male,hunter16@adventure-works.com,170000,410-555-0148,9/21/2020,Torrance
+11287,Henry,Garcia,Henry Garcia,7/16/1966,Married,Male,henry16@adventure-works.com,70000,282-555-0185,1/29/2022,Cliffside
+11288,Cindy,Sanchez,Cindy Sanchez,3/12/1978,Married,Female,cindy19@adventure-works.com,110000,198-555-0118,3/5/2022,Burbank
+11289,Maria,Carter,Maria Carter,3/3/1972,Married,Female,maria53@adventure-works.com,130000,239-555-0158,9/8/2020,Downey
+11290,Katelyn,Sanchez,Katelyn Sanchez,8/14/1972,Married,Female,katelyn26@adventure-works.com,130000,395-555-0150,9/20/2020,Lakewood
+11291,Jenna,Wright,Jenna Wright,5/1/1972,Married,Female,jenna19@adventure-works.com,130000,118-555-0191,9/4/2020,Lemon Grove
+11292,Seth,Phillips,Seth Phillips,5/5/1967,Single,Male,seth42@adventure-works.com,150000,980-555-0196,9/15/2020,San Gabriel
+11293,Luke,Long,Luke Long,11/23/1960,Single,Male,luke28@adventure-works.com,60000,786-555-0117,2/24/2022,Port Orchard
+11294,Dalton,Clark,Dalton Clark,3/2/1961,Married,Male,dalton18@adventure-works.com,60000,388-555-0195,9/25/2022,Issaquah
+11295,Taylor,Lewis,Taylor Lewis,11/13/1959,Single,Female,taylor67@adventure-works.com,80000,291-555-0174,9/25/2020,Concord
+11296,Haley,Richardson,Haley Richardson,4/5/1941,Single,Female,haley10@adventure-works.com,50000,620-555-0129,9/1/2020,Everett
+11297,Noah,Coleman,Noah Coleman,8/1/1940,Single,Male,noah2@adventure-works.com,70000,847-555-0167,9/26/2020,Burbank
+11298,Jon,Luo,Jon Luo,8/30/1940,Married,Male,jon46@adventure-works.com,70000,127-555-0189,9/12/2020,Chula Vista
+11299,Orlando,Vazquez,Orlando Vazquez,9/29/1941,Married,Male,orlando14@adventure-works.com,70000,757-555-0143,9/26/2020,Burbank
+11300,Fernando,Barnes,Fernando Barnes,8/31/1965,Married,Male,fernando47@adventure-works.com,80000,469-555-0125,1/31/2022,N. Vancouver
+11301,Cameron,Rodriguez,Cameron Rodriguez,12/7/1965,Married,Male,cameron38@adventure-works.com,80000,727-555-0119,6/9/2022,Ballard
+11302,Spencer,Russell,Spencer Russell,12/9/1971,Single,Male,spencer22@adventure-works.com,90000,834-555-0131,9/6/2020,Corvallis
+11303,Julia,Coleman,Julia Coleman,4/10/1966,Single,Female,julia72@adventure-works.com,90000,907-555-0170,9/2/2020,Edmonds
+11304,Julia,Garcia,Julia Garcia,3/14/1971,Married,Female,julia38@adventure-works.com,100000,923-555-0183,3/20/2022,Portland
+11305,Sean,Evans,Sean Evans,12/17/1965,Married,Male,sean31@adventure-works.com,110000,791-555-0174,3/25/2022,Chula Vista
+11306,Micah,Zhou,Micah Zhou,12/20/1965,Married,Male,micah19@adventure-works.com,110000,497-555-0185,6/30/2022,Coronado
+11307,Hunter,Rodriguez,Hunter Rodriguez,10/31/1965,Married,Male,hunter53@adventure-works.com,80000,996-555-0142,9/4/2020,Daly City
+11308,Ian,Gonzales,Ian Gonzales,9/2/1959,Married,Male,ian57@adventure-works.com,60000,904-555-0153,9/7/2022,Oregon City
+11309,Victoria,Lewis,Victoria Lewis,12/10/1959,Single,Female,victoria20@adventure-works.com,60000,586-555-0191,7/9/2022,Beaverton
+11310,Erin,Sanders,Erin Sanders,7/5/1964,Single,Female,erin7@adventure-works.com,70000,233-555-0160,8/12/2022,San Francisco
+11311,Gabrielle,Lopez,Gabrielle Lopez,2/21/1959,Single,Female,gabrielle63@adventure-works.com,70000,783-555-0174,4/18/2022,Lynnwood
+11312,Sara,Richardson,Sara Richardson,10/1/1958,Single,Female,sara10@adventure-works.com,70000,296-555-0174,5/17/2022,Lynnwood
+11313,Trevor,Jenkins,Trevor Jenkins,8/27/1958,Single,Male,trevor6@adventure-works.com,70000,120-555-0129,5/7/2022,Port Orchard
+11314,Mya,Flores,Mya Flores,6/16/1970,Single,Female,mya13@adventure-works.com,70000,522-555-0140,2/25/2022,Issaquah
+11315,Hailey,Ward,Hailey Ward,3/31/1959,Single,Female,hailey12@adventure-works.com,70000,767-555-0151,5/20/2022,Port Orchard
+11316,Luke,Allen,Luke Allen,5/17/1959,Married,Male,luke52@adventure-works.com,60000,786-555-0133,1/12/2022,Langford
+11317,Victoria,Russell,Victoria Russell,9/14/1963,Single,Female,victoria66@adventure-works.com,40000,663-555-0197,9/1/2020,Salem
+11318,Jessica,Wilson,Jessica Wilson,4/25/1958,Single,Female,jessica54@adventure-works.com,40000,702-555-0180,10/17/2022,Edmonds
+11319,Jade,Bailey,Jade Bailey,4/23/1948,Married,Female,jade13@adventure-works.com,70000,819-555-0160,9/9/2020,Oakland
+11320,Morgan,Hill,Morgan Hill,12/24/1942,Married,Female,morgan19@adventure-works.com,80000,510-555-0120,6/15/2022,Glendale
+11321,Terrance,Raman,Terrance Raman,1/5/1944,Married,Male,terrance9@adventure-works.com,90000,879-555-0124,2/23/2022,Burien
+11322,Sydney,Garcia,Sydney Garcia,9/12/1943,Married,Female,sydney78@adventure-works.com,90000,783-555-0116,3/24/2022,Bremerton
+11323,Jose,Patterson,Jose Patterson,12/18/1943,Single,Male,jose33@adventure-works.com,120000,768-555-0153,9/10/2020,Daly City
+11324,Zachary,Anderson,Zachary Anderson,11/10/1944,Married,Male,zachary39@adventure-works.com,90000,693-555-0118,9/26/2020,Glendale
+11325,Elijah,Ross,Elijah Ross,12/29/1944,Single,Male,elijah7@adventure-works.com,90000,409-555-0142,9/19/2020,Seattle
+11326,Rafael,Xie,Rafael Xie,12/23/1944,Married,Male,rafael26@adventure-works.com,130000,663-555-0137,9/15/2020,Beverly Hills
+11327,Jaime,Moreno,Jaime Moreno,9/1/1945,Married,Male,jaime48@adventure-works.com,90000,457-555-0178,9/26/2020,Burbank
+11328,Julian,Griffin,Julian Griffin,6/30/1945,Married,Male,julian20@adventure-works.com,90000,636-555-0197,1/5/2022,Newton
+11329,Andy,Alvarez,Andy Alvarez,1/22/1946,Single,Male,andy9@adventure-works.com,90000,367-555-0172,9/25/2020,Concord
+11330,Ryan,Thompson,Ryan Thompson,11/10/1945,Married,Male,ryan38@adventure-works.com,110000,138-555-0142,2/12/2022,Oak Bay
+11331,Samantha,Jenkins,Samantha Jenkins,1/3/1974,Married,Female,samantha32@adventure-works.com,90000,936-555-0152,2/7/2022,Shawnee
+11332,Deanna,Ramos,Deanna Ramos,4/2/1968,Single,Female,deanna44@adventure-works.com,10000,1 (11) 500 555-0138,10/15/2020,Berlin
+11333,Emily,Miller,Emily Miller,1/7/1968,Married,Female,emily6@adventure-works.com,20000,1 (11) 500 555-0110,3/21/2020,Newcastle upon Tyne
+11334,Nicole,Brown,Nicole Brown,9/19/1966,Married,Female,nicole4@adventure-works.com,10000,1 (11) 500 555-0187,3/4/2020,Stoke-on-Trent
+11335,Carla,Raman,Carla Raman,12/18/1977,Married,Female,carla14@adventure-works.com,10000,1 (11) 500 555-0124,10/23/2020,Hof
+11336,Shaun,Raji,Shaun Raji,3/8/1973,Married,Male,shaun21@adventure-works.com,20000,1 (11) 500 555-0122,9/27/2021,Paris
+11337,Jerome,Romero,Jerome Romero,3/21/1967,Married,Male,jerome7@adventure-works.com,10000,1 (11) 500 555-0112,3/9/2020,Watford
+11338,Frank,Navarro,Frank Navarro,8/6/1972,Married,Male,frank17@adventure-works.com,20000,1 (11) 500 555-0139,10/11/2020,Bonn
+11339,Dennis,She,Dennis She,1/5/1967,Single,Male,dennis25@adventure-works.com,20000,1 (11) 500 555-0141,10/7/2021,Paris
+11340,Melody,Munoz,Melody Munoz,4/3/1947,Married,Female,melody8@adventure-works.com,10000,1 (11) 500 555-0147,10/27/2021,Paris
+11341,Randy,Zeng,Randy Zeng,2/18/1942,Married,Male,randy24@adventure-works.com,20000,1 (11) 500 555-0144,4/11/2020,Cheltenham
+11342,Marshall,Wang,Marshall Wang,3/7/1973,Married,Male,marshall0@adventure-works.com,30000,1 (11) 500 555-0161,7/12/2022,Boulogne-sur-Mer
+11343,Arthur,Carlson,Arthur Carlson,3/9/1975,Married,Male,arthur41@adventure-works.com,10000,1 (11) 500 555-0166,4/4/2020,Oxon
+11344,Jessie,Jimenez,Jessie Jimenez,1/21/1963,Married,Female,jessie3@adventure-works.com,10000,1 (11) 500 555-0193,5/13/2020,Oxford
+11345,Robin,Ramos,Robin Ramos,9/9/1962,Single,Female,robin13@adventure-works.com,10000,1 (11) 500 555-0111,10/22/2021,Tremblay-en-France
+11346,Deanna,Gutierrez,Deanna Gutierrez,5/18/1966,Single,Female,deanna37@adventure-works.com,10000,1 (11) 500 555-0112,10/1/2021,Paris
+11347,Roy,Navarro,Roy Navarro,6/17/1972,Married,Male,roy30@adventure-works.com,10000,1 (11) 500 555-0137,3/16/2022,Braunschweig
+11348,Shawn,Rai,Shawn Rai,3/21/1961,Married,Male,shawn19@adventure-works.com,10000,1 (11) 500 555-0117,3/31/2022,Paderborn
+11349,Mindy,Luo,Mindy Luo,8/30/1965,Married,Female,mindy10@adventure-works.com,10000,1 (11) 500 555-0194,1/13/2023,München
+11350,Cara,Zhou,Cara Zhou,7/14/1942,Married,Female,cara5@adventure-works.com,30000,1 (11) 500 555-0118,2/5/2022,Peterborough
+11351,Anne,Ramos,Anne Ramos,4/2/1950,Single,Female,anne19@adventure-works.com,20000,1 (11) 500 555-0148,6/12/2020,London
+11352,Raymond,Rodriguez,Raymond Rodriguez,9/4/1945,Married,Male,raymond20@adventure-works.com,10000,1 (11) 500 555-0131,5/1/2022,Pantin
+11353,Carrie,Ortega,Carrie Ortega,12/9/1946,Single,Female,carrie19@adventure-works.com,30000,1 (11) 500 555-0111,6/12/2020,Warrington
+11354,Deanna,Suarez,Deanna Suarez,8/23/1947,Married,Female,deanna45@adventure-works.com,20000,1 (11) 500 555-0146,12/3/2022,Grevenbroich
+11355,Roberto,Gutierrez,Roberto Gutierrez,6/26/1948,Married,Male,roberto11@adventure-works.com,40000,1 (11) 500 555-0124,9/26/2022,Wokingham
+11356,Terrence,Carson,Terrence Carson,11/24/1985,Single,Male,terrence15@adventure-works.com,10000,1 (11) 500 555-0189,5/10/2020,Lavender Bay
+11357,Ramon,Ye,Ramon Ye,9/19/1984,Single,Male,ramon9@adventure-works.com,10000,1 (11) 500 555-0143,6/18/2020,Caloundra
+11358,Cynthia,Malhotra,Cynthia Malhotra,5/10/1984,Single,Female,cynthia9@adventure-works.com,10000,1 (11) 500 555-0187,6/28/2020,Coffs Harbour
+11359,Jarrod,Prasad,Jarrod Prasad,3/3/1984,Single,Male,jarrod9@adventure-works.com,10000,1 (11) 500 555-0154,6/13/2020,Malabar
+11360,Tyrone,Serrano,Tyrone Serrano,1/30/1984,Single,Male,tyrone15@adventure-works.com,10000,1 (11) 500 555-0176,6/27/2020,Rockhampton
+11361,Cindy,Ramos,Cindy Ramos,10/26/1982,Married,Female,cindy22@adventure-works.com,10000,1 (11) 500 555-0173,10/1/2022,Newcastle
+11362,Damien,Shan,Damien Shan,5/11/1983,Married,Male,damien26@adventure-works.com,10000,1 (11) 500 555-0142,3/29/2022,Cranbourne
+11363,Julian,Ross,Julian Ross,4/19/1983,Single,Male,julian5@adventure-works.com,10000,1 (11) 500 555-0126,6/8/2020,Melbourne
+11364,Jennifer,Collins,Jennifer Collins,3/22/1985,Single,Female,jennifer6@adventure-works.com,10000,1 (11) 500 555-0196,6/7/2020,Geelong
+11365,Brittney,Sun,Brittney Sun,12/6/1984,Single,Female,brittney12@adventure-works.com,10000,1 (11) 500 555-0155,5/31/2020,Findon
+11366,Virginia,Patel,Virginia Patel,4/23/1985,Married,Female,virginia4@adventure-works.com,20000,1 (11) 500 555-0146,6/24/2022,Seaford
+11367,Calvin,Nara,Calvin Nara,8/21/1984,Married,Male,calvin15@adventure-works.com,20000,1 (11) 500 555-0193,7/7/2022,North Sydney
+11368,Edward,Miller,Edward Miller,5/24/1984,Single,Male,edward28@adventure-works.com,10000,1 (11) 500 555-0151,6/24/2020,Rockhampton
+11369,Ashlee,Tang,Ashlee Tang,2/1/1984,Married,Female,ashlee11@adventure-works.com,20000,1 (11) 500 555-0187,7/5/2022,Findon
+11370,Alicia,Xu,Alicia Xu,9/29/1983,Married,Female,alicia3@adventure-works.com,20000,1 (11) 500 555-0113,7/13/2022,South Melbourne
+11371,Lacey,Jai,Lacey Jai,11/24/1983,Married,Female,lacey1@adventure-works.com,20000,1 (11) 500 555-0149,11/7/2022,Rockhampton
+11372,Wendy,Romero,Wendy Romero,11/12/1983,Single,Female,wendy8@adventure-works.com,20000,1 (11) 500 555-0114,6/7/2020,Brisbane
+11373,Carly,Luo,Carly Luo,9/16/1954,Married,Female,carly5@adventure-works.com,30000,1 (11) 500 555-0138,8/27/2022,Salzgitter
+11374,Jimmy,Ortega,Jimmy Ortega,12/25/1948,Single,Male,jimmy26@adventure-works.com,30000,1 (11) 500 555-0183,4/15/2022,Werne
+11375,Francisco,Martinez,Francisco Martinez,11/5/1948,Married,Male,francisco19@adventure-works.com,30000,1 (11) 500 555-0119,10/17/2022,High Wycombe
+11376,Lance,Vazquez,Lance Vazquez,12/7/1948,Single,Male,lance14@adventure-works.com,40000,1 (11) 500 555-0112,10/15/2022,Liverpool
+11377,David,Robinett,David Robinett,8/23/1966,Married,Male,david22@adventure-works.com,30000,238-555-0100,2/28/2022,Solingen
+11378,Shannon,Liang,Shannon Liang,11/19/1965,Single,Female,shannon15@adventure-works.com,10000,1 (11) 500 555-0159,10/17/2021,Metz
+11379,Gary,Vazquez,Gary Vazquez,5/13/1976,Married,Male,gary25@adventure-works.com,10000,1 (11) 500 555-0130,10/2/2021,Boulogne-Billancourt
+11380,Mitchell,Kumar,Mitchell Kumar,8/29/1964,Single,Male,mitchell7@adventure-works.com,20000,1 (11) 500 555-0119,10/11/2020,Saarlouis
+11381,Meredith,Raman,Meredith Raman,8/18/1970,Married,Female,meredith11@adventure-works.com,20000,1 (11) 500 555-0162,6/12/2020,London
+11382,Edward,Patterson,Edward Patterson,7/15/1974,Married,Male,edward59@adventure-works.com,20000,1 (11) 500 555-0118,11/3/2021,Roubaix
+11383,Marie,Gill,Marie Gill,2/25/1966,Married,Female,marie37@adventure-works.com,30000,1 (11) 500 555-0192,1/1/2023,Roissy en Brie
+11384,Tiffany,Wang,Tiffany Wang,10/13/1971,Married,Female,tiffany1@adventure-works.com,30000,1 (11) 500 555-0192,8/2/2022,Les Ulis
+11385,Miguel,Allen,Miguel Allen,8/8/1971,Single,Male,miguel24@adventure-works.com,30000,1 (11) 500 555-0128,7/6/2022,York
+11386,Jaclyn,Cai,Jaclyn Cai,11/2/1971,Married,Female,jaclyn22@adventure-works.com,30000,1 (11) 500 555-0164,11/2/2022,Darmstadt
+11387,Megan,Ramirez,Megan Ramirez,11/29/1964,Single,Female,megan44@adventure-works.com,40000,1 (11) 500 555-0192,7/26/2020,Gateshead
+11388,Joseph,Martin,Joseph Martin,1/20/1965,Married,Male,joseph21@adventure-works.com,40000,1 (11) 500 555-0143,7/3/2020,York
+11389,Karl,Shan,Karl Shan,4/20/1981,Single,Male,karl11@adventure-works.com,10000,1 (11) 500 555-0198,11/17/2022,Duesseldorf
+11390,Christine,Raji,Christine Raji,4/17/1976,Single,Female,christine16@adventure-works.com,10000,1 (11) 500 555-0153,11/7/2022,Saint Germain en Laye
+11391,Lindsay,Xie,Lindsay Xie,6/25/1976,Single,Female,lindsay3@adventure-works.com,10000,1 (11) 500 555-0115,10/26/2022,Salzgitter
+11392,Willie,Zhao,Willie Zhao,2/3/1981,Single,Male,willie8@adventure-works.com,10000,1 (11) 500 555-0120,3/29/2022,Frankfurt
+11393,Kurt,Pal,Kurt Pal,7/17/1974,Single,Male,kurt12@adventure-works.com,10000,1 (11) 500 555-0117,7/16/2022,Saint Ouen
+11394,George,McDonald,George McDonald,4/22/1975,Single,Male,george13@adventure-works.com,10000,1 (11) 500 555-0150,7/4/2020,Milton Keynes
+11395,Beth,Gutierrez,Beth Gutierrez,4/16/1976,Single,Female,beth13@adventure-works.com,30000,1 (11) 500 555-0110,11/14/2020,Frankfurt
+11396,Ian,Lopez,Ian Lopez,4/4/1975,Married,Male,ian27@adventure-works.com,10000,1 (11) 500 555-0182,10/26/2022,Saarlouis
+11397,Latoya,Shan,Latoya Shan,12/2/1974,Single,Female,latoya9@adventure-works.com,20000,1 (11) 500 555-0122,7/7/2022,Paris
+11398,Colin,Nath,Colin Nath,3/9/1975,Single,Male,colin41@adventure-works.com,30000,1 (11) 500 555-0115,7/3/2020,Newcastle upon Tyne
+11399,Brenda,Mehta,Brenda Mehta,2/1/1975,Single,Female,brenda17@adventure-works.com,30000,1 (11) 500 555-0155,4/13/2022,Paris
+11400,Franklin,Raji,Franklin Raji,4/15/1980,Single,Male,franklin38@adventure-works.com,40000,1 (11) 500 555-0180,7/15/2020,London
+11401,Linda,Navarro,Linda Navarro,2/23/1975,Married,Female,linda25@adventure-works.com,40000,1 (11) 500 555-0189,10/28/2021,Paris
+11402,Kelli,Cai,Kelli Cai,5/20/1975,Married,Female,kelli21@adventure-works.com,40000,1 (11) 500 555-0145,11/7/2021,Orleans
+11403,Nancy,Schmidt,Nancy Schmidt,1/6/1980,Single,Female,nancy13@adventure-works.com,40000,1 (11) 500 555-0150,10/28/2021,Saint Ouen
+11404,Megan,Taylor,Megan Taylor,6/30/1957,Single,Female,megan12@adventure-works.com,10000,1 (11) 500 555-0178,2/10/2022,Kassel
+11405,Bonnie,Goel,Bonnie Goel,8/16/1957,Single,Female,bonnie25@adventure-works.com,10000,1 (11) 500 555-0143,3/31/2022,Bonn
+11406,Latoya,Xu,Latoya Xu,12/31/1957,Married,Female,latoya4@adventure-works.com,20000,1 (11) 500 555-0141,11/4/2021,Paris
+11407,Mario,She,Mario She,9/30/1957,Married,Male,mario0@adventure-works.com,20000,1 (11) 500 555-0156,6/23/2022,Münster
+11408,Darren,Gill,Darren Gill,5/10/1964,Married,Male,darren36@adventure-works.com,10000,1 (11) 500 555-0166,3/5/2022,London
+11409,Jacqueline,Hayes,Jacqueline Hayes,3/2/1979,Single,Female,jacqueline23@adventure-works.com,10000,1 (11) 500 555-0162,11/17/2021,Saint Germain en Laye
+11410,Maurice,Goel,Maurice Goel,2/22/1974,Married,Male,maurice20@adventure-works.com,20000,1 (11) 500 555-0179,11/13/2021,Paris
+11411,Devin,Ross,Devin Ross,8/12/1959,Married,Male,devin69@adventure-works.com,80000,1 (11) 500 555-0172,8/4/2022,Ingolstadt
+11412,Sydney,Bryant,Sydney Bryant,10/7/1959,Single,Female,sydney40@adventure-works.com,80000,1 (11) 500 555-0156,11/5/2020,Ingolstadt
+11413,Megan,Stewart,Megan Stewart,10/13/1959,Married,Female,megan27@adventure-works.com,80000,1 (11) 500 555-0116,8/10/2020,Gateshead
+11414,Ian,Richardson,Ian Richardson,9/15/1959,Single,Male,ian76@adventure-works.com,80000,1 (11) 500 555-0119,8/13/2020,Kirkby
+11415,Randy,She,Randy She,12/3/1949,Single,Male,randy25@adventure-works.com,90000,1 (11) 500 555-0141,8/16/2022,Darmstadt
+11416,Katrina,Becker,Katrina Becker,9/16/1950,Married,Female,katrina19@adventure-works.com,60000,1 (11) 500 555-0153,11/7/2021,Croix
+11417,Lacey,Zheng,Lacey Zheng,8/26/1950,Married,Female,lacey32@adventure-works.com,70000,1 (11) 500 555-0174,11/4/2021,Pantin
+11418,Rafael,Hu,Rafael Hu,8/9/1950,Single,Male,rafael20@adventure-works.com,90000,1 (11) 500 555-0159,12/17/2022,Paderborn
+11419,Kyle,Scott,Kyle Scott,8/18/1950,Married,Male,kyle43@adventure-works.com,150000,1 (11) 500 555-0178,3/12/2022,Watford
+11420,Jordan,Turner,Jordan Turner,1/9/1952,Married,Male,jordan59@adventure-works.com,100000,1 (11) 500 555-0176,11/1/2021,Roubaix
+11421,Amy,Sun,Amy Sun,1/16/1952,Married,Female,amy19@adventure-works.com,110000,1 (11) 500 555-0111,11/3/2020,Offenbach
+11422,Dustin,Deng,Dustin Deng,2/29/1952,Married,Male,dustin1@adventure-works.com,170000,1 (11) 500 555-0168,8/22/2020,Liverpool
+11423,Jasmine,Stewart,Jasmine Stewart,5/4/1960,Married,Female,jasmine22@adventure-works.com,80000,1 (11) 500 555-0165,12/10/2020,Hamburg
+11424,Pamela,Garcia,Pamela Garcia,12/3/1964,Married,Female,pamela18@adventure-works.com,80000,1 (11) 500 555-0182,4/21/2022,Berlin
+11425,Ariana,Gray,Ariana Gray,8/2/1965,Married,Female,ariana5@adventure-works.com,90000,1 (11) 500 555-0191,11/22/2021,Metz
+11426,Kristopher,Mehta,Kristopher Mehta,4/1/1959,Married,Male,kristopher12@adventure-works.com,110000,1 (11) 500 555-0181,4/9/2022,Braunschweig
+11427,Desiree,Dominguez,Desiree Dominguez,6/17/1959,Married,Female,desiree9@adventure-works.com,110000,1 (11) 500 555-0133,12/20/2020,Kiel
+11428,Deanna,Perez,Deanna Perez,2/19/1959,Single,Female,deanna24@adventure-works.com,120000,1 (11) 500 555-0191,12/5/2020,Poing
+11429,Marco,Lopez,Marco Lopez,1/13/1958,Married,Male,marco17@adventure-works.com,80000,1 (11) 500 555-0186,12/14/2021,Sèvres
+11430,Casey,Yuan,Casey Yuan,9/21/1957,Married,Female,casey7@adventure-works.com,90000,1 (11) 500 555-0184,3/19/2022,Bottrop
+11431,Bryant,Garcia,Bryant Garcia,10/20/1974,Married,Male,bryant14@adventure-works.com,110000,1 (11) 500 555-0115,12/21/2020,Hof
+11432,Dominique,Prasad,Dominique Prasad,3/10/1957,Married,Female,dominique7@adventure-works.com,80000,1 (11) 500 555-0148,12/10/2021,Roissy en Brie
+11433,Maurice,Shan,Maurice Shan,3/1/1957,Married,Male,maurice11@adventure-works.com,80000,1 (11) 500 555-0130,12/2/2021,Tremblay-en-France
+11434,Andre,Lopez,Andre Lopez,5/2/1962,Married,Male,andre16@adventure-works.com,170000,1 (11) 500 555-0111,6/15/2022,West Sussex
+11435,Robin,Romero,Robin Romero,9/3/1955,Single,Female,robin5@adventure-works.com,100000,1 (11) 500 555-0168,1/4/2023,Kiel
+11436,Taylor,Cox,Taylor Cox,3/17/1956,Married,Female,taylor13@adventure-works.com,160000,1 (11) 500 555-0125,5/22/2022,Watford
+11437,Alfredo,Moreno,Alfredo Moreno,6/16/1955,Married,Male,alfredo7@adventure-works.com,90000,1 (11) 500 555-0166,12/19/2022,Villeneuve-d'Ascq
+11438,Jenny,Nara,Jenny Nara,4/13/1955,Married,Female,jenny39@adventure-works.com,130000,1 (11) 500 555-0164,2/5/2022,Werne
+11439,Janet,Munoz,Janet Munoz,11/14/1953,Married,Female,janet12@adventure-works.com,90000,1 (11) 500 555-0148,11/29/2021,Paris La Defense
+11440,Sergio,Weber,Sergio Weber,3/26/1953,Married,Male,sergio4@adventure-works.com,80000,1 (11) 500 555-0178,3/27/2022,Lille
+11441,Erika,Gomez,Erika Gomez,12/9/1952,Married,Female,erika0@adventure-works.com,90000,1 (11) 500 555-0155,1/8/2023,Paris
+11442,Joseph,Harris,Joseph Harris,5/13/1953,Married,Male,joseph20@adventure-works.com,90000,1 (11) 500 555-0116,9/29/2022,Tremblay-en-France
+11443,Grace,Griffin,Grace Griffin,11/19/1981,Single,Female,grace67@adventure-works.com,60000,1 (11) 500 555-0170,6/7/2020,Hobart
+11444,Tina,Mehta,Tina Mehta,10/26/1981,Married,Female,tina15@adventure-works.com,70000,1 (11) 500 555-0192,6/1/2020,Bendigo
+11445,Kari,Kim,Kari Kim,1/18/1980,Single,Female,kari3@adventure-works.com,70000,1 (11) 500 555-0136,6/6/2020,Silverwater
+11446,Bethany,Chander,Bethany Chander,2/9/1980,Single,Female,bethany19@adventure-works.com,70000,1 (11) 500 555-0179,6/18/2020,Lane Cove
+11447,Jennifer,Roberts,Jennifer Roberts,2/13/1980,Married,Female,jennifer15@adventure-works.com,70000,1 (11) 500 555-0112,6/28/2020,Hervey Bay
+11448,Kyle,Patterson,Kyle Patterson,10/25/1980,Single,Male,kyle5@adventure-works.com,80000,1 (11) 500 555-0145,6/16/2020,Melbourne
+11449,Alvin,Hu,Alvin Hu,8/1/1980,Married,Male,alvin19@adventure-works.com,80000,1 (11) 500 555-0144,6/19/2020,Seaford
+11450,Brett,Mehta,Brett Mehta,5/11/1981,Single,Male,brett13@adventure-works.com,130000,1 (11) 500 555-0187,6/29/2020,Cloverdale
+11451,Ruben,Muñoz,Ruben Muñoz,5/8/1980,Single,Male,ruben30@adventure-works.com,70000,1 (11) 500 555-0142,7/29/2020,Newcastle
+11452,Erika,Rubio,Erika Rubio,5/5/1979,Single,Female,erika18@adventure-works.com,80000,1 (11) 500 555-0159,7/11/2020,Caloundra
+11453,Stanley,Malhotra,Stanley Malhotra,8/17/1984,Single,Male,stanley5@adventure-works.com,80000,1 (11) 500 555-0139,7/15/2020,Hobart
+11454,Melinda,Navarro,Melinda Navarro,10/20/1979,Single,Female,melinda5@adventure-works.com,80000,1 (11) 500 555-0145,7/31/2020,Melbourne
+11455,Ross,Sanz,Ross Sanz,10/19/1979,Married,Male,ross38@adventure-works.com,100000,1 (11) 500 555-0147,7/1/2020,Melton
+11456,Jon,Gao,Jon Gao,1/5/1980,Married,Male,jon35@adventure-works.com,120000,1 (11) 500 555-0136,7/17/2020,St. Leonards
+11457,Jaime,Gutierrez,Jaime Gutierrez,11/18/1978,Married,Female,jaime12@adventure-works.com,90000,1 (11) 500 555-0173,7/17/2020,Wollongong
+11458,Bianca,Liu,Bianca Liu,10/3/1978,Married,Female,bianca3@adventure-works.com,100000,1 (11) 500 555-0179,3/30/2022,Springwood
+11459,Tasha,Deng,Tasha Deng,4/12/1978,Single,Female,tasha1@adventure-works.com,80000,1 (11) 500 555-0171,7/27/2020,Port Macquarie
+11460,Melvin,Chande,Melvin Chande,10/4/1983,Single,Male,melvin13@adventure-works.com,90000,1 (11) 500 555-0121,7/21/2020,Cranbourne
+11461,Victor,Jimenez,Victor Jimenez,9/22/1977,Single,Male,victor7@adventure-works.com,90000,1 (11) 500 555-0176,7/31/2020,Lavender Bay
+11462,Laura,Lin,Laura Lin,7/18/1977,Married,Female,laura14@adventure-works.com,110000,1 (11) 500 555-0151,7/16/2020,Matraville
+11463,Alisha,Beck,Alisha Beck,9/9/1977,Married,Female,alisha45@adventure-works.com,110000,1 (11) 500 555-0169,3/5/2022,Cloverdale
+11464,Alejandro,Huang,Alejandro Huang,5/15/1977,Married,Male,alejandro8@adventure-works.com,90000,1 (11) 500 555-0112,7/22/2020,South Melbourne
+11465,Louis,Luo,Louis Luo,8/18/1976,Married,Male,louis23@adventure-works.com,90000,1 (11) 500 555-0185,7/14/2020,Gold Coast
+11466,Grant,Tang,Grant Tang,1/30/1977,Married,Male,grant6@adventure-works.com,150000,1 (11) 500 555-0195,5/22/2022,Lavender Bay
+11467,Arturo,Zheng,Arturo Zheng,4/6/1975,Married,Male,arturo21@adventure-works.com,170000,1 (11) 500 555-0154,7/31/2022,St. Leonards
+11468,Jaclyn,Andersen,Jaclyn Andersen,12/15/1980,Married,Female,jaclyn37@adventure-works.com,40000,1 (11) 500 555-0126,8/8/2020,York
+11469,Edwin,Raji,Edwin Raji,10/14/1978,Single,Male,edwin44@adventure-works.com,10000,1 (11) 500 555-0143,8/9/2022,York
+11470,Jay,Suarez,Jay Suarez,3/25/1979,Single,Male,jay49@adventure-works.com,20000,1 (11) 500 555-0195,1/22/2021,Stuttgart
+11471,Latasha,Suarez,Latasha Suarez,3/25/1979,Single,Female,latasha19@adventure-works.com,30000,1 (11) 500 555-0180,5/17/2022,Chatou
+11472,Kenneth,Kumar,Kenneth Kumar,9/30/1968,Single,Male,kenneth7@adventure-works.com,60000,1 (11) 500 555-0153,7/26/2020,Hawthorne
+11473,Grace,Henderson,Grace Henderson,1/30/1986,Single,Female,grace52@adventure-works.com,20000,1 (11) 500 555-0164,6/2/2022,Drancy
+11474,Melvin,Xu,Melvin Xu,8/21/1985,Single,Male,melvin5@adventure-works.com,20000,1 (11) 500 555-0113,9/26/2022,Peterborough
+11475,Cesar,Subram,Cesar Subram,4/7/1984,Single,Male,cesar12@adventure-works.com,30000,1 (11) 500 555-0118,4/23/2022,London
+11476,Erika,Navarro,Erika Navarro,5/16/1980,Married,Female,erika7@adventure-works.com,40000,1 (11) 500 555-0145,11/1/2022,Kirkby
+11477,Tristan,Hughes,Tristan Hughes,6/21/1984,Single,Male,tristan12@adventure-works.com,30000,1 (11) 500 555-0121,9/25/2022,Darmstadt
+11478,Billy,Hernandez,Billy Hernandez,2/22/1984,Single,Male,billy5@adventure-works.com,30000,1 (11) 500 555-0121,4/19/2022,Sèvres
+11479,Darryl,Wu,Darryl Wu,10/20/1978,Married,Male,darryl6@adventure-works.com,40000,1 (11) 500 555-0180,12/5/2021,Saint Ouen
+11480,Colleen,Ma,Colleen Ma,3/7/1984,Married,Female,colleen16@adventure-works.com,40000,1 (11) 500 555-0160,12/25/2021,Tremblay-en-France
+11481,Erica,Hu,Erica Hu,11/20/1978,Married,Female,erica19@adventure-works.com,40000,1 (11) 500 555-0117,1/27/2021,Braunschweig
+11482,Adrienne,Torres,Adrienne Torres,1/16/1978,Single,Female,adrienne8@adventure-works.com,30000,1 (11) 500 555-0120,9/8/2020,Warrington
+11483,Calvin,Chande,Calvin Chande,5/19/1983,Married,Male,calvin13@adventure-works.com,40000,1 (11) 500 555-0197,12/22/2021,Paris
+11484,Erick,Sai,Erick Sai,3/3/1983,Single,Male,erick5@adventure-works.com,40000,1 (11) 500 555-0161,1/2/2021,Neunkirchen
+11485,Donald,Chandra,Donald Chandra,2/4/1978,Married,Male,donald4@adventure-works.com,40000,1 (11) 500 555-0191,9/14/2020,Esher-Molesey
+11486,Ariana,Rogers,Ariana Rogers,5/21/1982,Single,Female,ariana17@adventure-works.com,10000,1 (11) 500 555-0118,11/24/2022,Erlangen
+11487,Morgan,Jones,Morgan Jones,1/5/1977,Single,Female,morgan26@adventure-works.com,10000,1 (11) 500 555-0155,12/15/2022,Dunkerque
+11488,Jermaine,Lopez,Jermaine Lopez,3/20/1977,Single,Male,jermaine15@adventure-works.com,20000,1 (11) 500 555-0181,10/28/2020,London
+11489,Deborah,Goel,Deborah Goel,9/3/1976,Single,Female,deborah21@adventure-works.com,20000,1 (11) 500 555-0168,10/28/2020,Oxford
+11490,Danny,Rubio,Danny Rubio,7/5/1976,Single,Male,danny22@adventure-works.com,20000,1 (11) 500 555-0122,4/4/2022,Paris La Defense
+11491,Andre,Perez,Andre Perez,4/2/1982,Married,Male,andre20@adventure-works.com,20000,1 (11) 500 555-0112,11/7/2020,London
+11492,Terrence,Chander,Terrence Chander,11/15/1982,Single,Male,terrence16@adventure-works.com,30000,1 (11) 500 555-0155,2/11/2021,Eilenburg
+11493,Dawn,Wu,Dawn Wu,5/31/1976,Single,Female,dawn8@adventure-works.com,40000,1 (11) 500 555-0139,11/14/2020,London
+11494,Jimmy,Gutierrez,Jimmy Gutierrez,1/25/1976,Single,Male,jimmy14@adventure-works.com,40000,1 (11) 500 555-0112,12/23/2020,Runcorn
+11495,Francis,Jimenez,Francis Jimenez,3/3/1977,Single,Male,francis3@adventure-works.com,40000,1 (11) 500 555-0143,10/26/2022,Bonn
+11496,Gary,Ortega,Gary Ortega,4/15/1976,Single,Male,gary31@adventure-works.com,40000,1 (11) 500 555-0197,11/30/2020,Warrington
+11497,Katrina,Nath,Katrina Nath,11/22/1981,Single,Female,katrina17@adventure-works.com,40000,1 (11) 500 555-0154,11/4/2022,Newcastle upon Tyne
+11498,Arturo,Sun,Arturo Sun,7/15/1979,Single,Male,arturo14@adventure-works.com,40000,694-555-0114,2/28/2022,Cliffside
+11499,Pedro,Vance,Pedro Vance,5/13/1980,Single,Male,pedro4@adventure-works.com,40000,149-555-0132,4/6/2022,Concord
+11500,Sarah,Simmons,Sarah Simmons,3/17/1980,Single,Female,sarah40@adventure-works.com,40000,579-555-0169,1/31/2022,Langley
+11501,Brandy,Chandra,Brandy Chandra,1/3/1981,Single,Female,brandy20@adventure-works.com,40000,323-555-0162,3/27/2022,Cliffside
+11502,Jared,Peterson,Jared Peterson,9/3/1980,Single,Male,jared8@adventure-works.com,40000,879-555-0159,1/30/2022,Shawnee
+11503,Dennis,Wu,Dennis Wu,4/11/1936,Married,Male,dennis8@adventure-works.com,50000,724-555-0194,5/26/2022,Coronado
+11504,Jordan,Baker,Jordan Baker,10/17/1936,Married,Female,jordan45@adventure-works.com,40000,138-555-0117,5/1/2022,Downey
+11505,Jasmine,Powell,Jasmine Powell,1/4/1972,Single,Female,jasmine48@adventure-works.com,60000,847-555-0156,2/22/2022,Burnaby
+11506,Nicholas,Brown,Nicholas Brown,11/14/1971,Single,Male,nicholas6@adventure-works.com,60000,883-555-0144,3/8/2022,Port Hammond
+11507,Isabella,Russell,Isabella Russell,5/19/1972,Single,Female,isabella30@adventure-works.com,60000,168-555-0190,2/17/2022,Victoria
+11508,Elizabeth,Wilson,Elizabeth Wilson,1/4/1972,Single,Female,elizabeth11@adventure-works.com,60000,469-555-0110,5/2/2022,Lynnwood
+11509,Roger,Harui,Roger Harui,7/22/1964,Married,Female,roger4@adventure-works.com,30000,731-555-0184,7/29/2022,Novato
+11510,Seth,Roberts,Seth Roberts,1/10/1959,Married,Male,seth40@adventure-works.com,30000,199-555-0147,3/12/2022,N. Vancouver
+11511,Caleb,Perry,Caleb Perry,6/10/1964,Married,Male,caleb4@adventure-works.com,30000,786-555-0137,3/13/2022,Lebanon
+11512,Natalie,Campbell,Natalie Campbell,8/5/1976,Single,Female,natalie50@adventure-works.com,20000,178-555-0147,12/28/2022,Oak Bay
+11513,Alyssa,Howard,Alyssa Howard,9/23/1965,Single,Female,alyssa38@adventure-works.com,20000,805-555-0188,6/8/2022,Royal Oak
+11514,Dalton,Diaz,Dalton Diaz,4/16/1965,Married,Male,dalton67@adventure-works.com,30000,994-555-0158,6/24/2022,Tacoma
+11515,Shannon,Huang,Shannon Huang,8/25/1959,Married,Female,shannon6@adventure-works.com,30000,458-555-0116,8/31/2020,Burbank
+11516,Mya,Gonzales,Mya Gonzales,10/13/1976,Married,Female,mya17@adventure-works.com,30000,211-555-0110,9/15/2020,Colma
+11517,Katherine,Bryant,Katherine Bryant,12/18/1959,Married,Female,katherine44@adventure-works.com,40000,802-555-0135,6/26/2022,Redwood City
+11518,Edward,Washington,Edward Washington,11/6/1960,Married,Male,edward62@adventure-works.com,40000,446-555-0170,10/27/2022,Milwaukie
+11519,Jerome,Navarro,Jerome Navarro,9/13/1960,Married,Male,jerome8@adventure-works.com,40000,934-555-0191,3/13/2022,Cliffside
+11520,Jada,Morgan,Jada Morgan,10/8/1960,Married,Female,jada14@adventure-works.com,40000,160-555-0131,2/22/2022,Port Hammond
+11521,Ariana,Peterson,Ariana Peterson,12/1/1977,Married,Female,ariana4@adventure-works.com,40000,298-555-0145,3/5/2022,Walla Walla
+11522,Christian,Hughes,Christian Hughes,6/17/1972,Married,Male,christian26@adventure-works.com,80000,231-555-0168,9/3/2020,Oregon City
+11523,Lucas,Taylor,Lucas Taylor,2/7/1962,Married,Male,lucas22@adventure-works.com,40000,149-555-0146,2/15/2022,N. Vancouver
+11524,Alyssa,Jackson,Alyssa Jackson,7/22/1961,Married,Female,alyssa11@adventure-works.com,40000,398-555-0193,8/28/2022,Torrance
+11525,Ariana,Cook,Ariana Cook,7/8/1961,Married,Female,ariana19@adventure-works.com,40000,160-555-0119,9/6/2020,Lebanon
+11526,Katherine,Diaz,Katherine Diaz,1/30/1973,Married,Female,katherine48@adventure-works.com,40000,147-555-0124,2/3/2022,Westminster
+11527,Jenna,Green,Jenna Green,12/2/1961,Married,Female,jenna14@adventure-works.com,40000,961-555-0153,2/7/2022,San Gabriel
+11528,Joan,Washington,Joan Washington,8/15/1968,Married,Female,joan7@adventure-works.com,40000,732-555-0144,9/12/2020,Glendale
+11529,Austin,Bryant,Austin Bryant,5/16/1963,Married,Male,austin14@adventure-works.com,40000,537-555-0113,9/24/2020,Portland
+11530,Andrew,Martinez,Andrew Martinez,1/23/1963,Married,Male,andrew24@adventure-works.com,40000,226-555-0113,1/28/2022,N. Vancouver
+11531,Nina,Yuan,Nina Yuan,7/7/1962,Married,Female,nina7@adventure-works.com,40000,568-555-0198,8/30/2020,Beverly Hills
+11532,Lauren,Miller,Lauren Miller,8/26/1962,Married,Female,lauren24@adventure-works.com,40000,827-555-0183,4/5/2022,Redmond
+11533,Ebony,Gill,Ebony Gill,7/17/1968,Married,Female,ebony35@adventure-works.com,40000,327-555-0157,5/14/2022,Birmingham
+11534,Cameron,Lewis,Cameron Lewis,5/12/1964,Single,Male,cameron39@adventure-works.com,60000,199-555-0180,9/18/2020,Long Beach
+11535,Devin,Nelson,Devin Nelson,12/31/1963,Married,Male,devin32@adventure-works.com,60000,256-555-0111,9/2/2020,Lebanon
+11536,Logan,Chow,Logan Chow,4/13/1969,Married,Male,logan25@adventure-works.com,60000,545-555-0121,9/24/2020,Fremont
+11537,Dakota,Ross,Dakota Ross,9/21/1963,Married,Male,dakota3@adventure-works.com,60000,186-555-0170,9/21/2020,Colma
+11538,Nicole,Taylor,Nicole Taylor,2/24/1965,Single,Female,nicole9@adventure-works.com,60000,217-555-0170,9/16/2020,Palo Alto
+11539,Justin,Washington,Justin Washington,8/18/1970,Married,Male,justin10@adventure-works.com,60000,701-555-0175,9/23/2020,Concord
+11540,Alberto,Navarro,Alberto Navarro,1/24/1970,Single,Male,alberto11@adventure-works.com,60000,535-555-0131,9/13/2020,Coronado
+11541,Aidan,Ross,Aidan Ross,10/9/1964,Single,Male,aidan4@adventure-works.com,60000,154-555-0143,9/12/2020,Portland
+11542,Alejandro,Tang,Alejandro Tang,9/7/1979,Single,Male,alejandro30@adventure-works.com,20000,1 (11) 500 555-0124,5/11/2022,York
+11543,Sheena,Chande,Sheena Chande,8/16/1973,Married,Female,sheena13@adventure-works.com,20000,1 (11) 500 555-0178,12/21/2022,Paris
+11544,Joel,Garcia,Joel Garcia,5/4/1979,Married,Male,joel14@adventure-works.com,30000,1 (11) 500 555-0159,8/28/2022,Darmstadt
+11545,Reginald,Dominguez,Reginald Dominguez,9/22/1973,Married,Male,reginald20@adventure-works.com,30000,1 (11) 500 555-0137,7/13/2022,Paris
+11546,Christine,Chande,Christine Chande,9/11/1973,Married,Female,christine10@adventure-works.com,30000,1 (11) 500 555-0179,12/2/2021,Roubaix
+11547,Cindy,Sai,Cindy Sai,3/5/1979,Married,Female,cindy6@adventure-works.com,40000,1 (11) 500 555-0111,12/25/2021,Paris
+11548,Raymond,Sanchez,Raymond Sanchez,4/11/1974,Single,Male,raymond21@adventure-works.com,40000,1 (11) 500 555-0160,12/2/2020,Berkshire
+11549,Crystal,Liang,Crystal Liang,9/3/1979,Married,Female,crystal17@adventure-works.com,40000,1 (11) 500 555-0120,12/21/2020,London
+11550,Deb,Torres,Deb Torres,8/5/1979,Single,Female,deb4@adventure-works.com,40000,1 (11) 500 555-0125,1/20/2021,Oxford
+11551,Shannon,Alvarez,Shannon Alvarez,5/21/1978,Single,Male,shannon26@adventure-works.com,10000,1 (11) 500 555-0159,3/1/2022,Colombes
+11552,Eddie,Rubio,Eddie Rubio,11/23/1972,Single,Male,eddie21@adventure-works.com,20000,1 (11) 500 555-0159,1/6/2023,Salzgitter
+11553,Sharon,Luo,Sharon Luo,3/8/1973,Married,Female,sharon12@adventure-works.com,20000,1 (11) 500 555-0118,8/22/2022,Reading
+11554,Sydney,Simmons,Sydney Simmons,3/27/1932,Single,Female,sydney37@adventure-works.com,10000,1 (11) 500 555-0198,5/8/2022,Tremblay-en-France
+11555,Alexandria,Henderson,Alexandria Henderson,7/4/1937,Married,Female,alexandria5@adventure-works.com,40000,1 (11) 500 555-0182,5/8/2022,Esher-Molesey
+11556,Lucas,Evans,Lucas Evans,11/10/1972,Married,Male,lucas10@adventure-works.com,20000,1 (11) 500 555-0153,12/21/2022,Warrington
+11557,Felicia,Ramos,Felicia Ramos,7/14/1972,Single,Female,felicia16@adventure-works.com,30000,1 (11) 500 555-0191,8/8/2022,York
+11558,Ivan,Malhotra,Ivan Malhotra,2/18/1973,Single,Male,ivan3@adventure-works.com,30000,1 (11) 500 555-0198,11/30/2022,Woolston
+11559,Frederick,Subram,Frederick Subram,12/12/1978,Single,Male,frederick12@adventure-works.com,30000,1 (11) 500 555-0111,11/29/2022,Solingen
+11560,Whitney,Srini,Whitney Srini,8/9/1978,Single,Female,whitney7@adventure-works.com,30000,1 (11) 500 555-0115,12/3/2022,London
+11561,Briana,Dominguez,Briana Dominguez,1/21/1972,Single,Female,briana12@adventure-works.com,10000,1 (11) 500 555-0166,2/19/2021,München
+11562,Jarrod,Gonzalez,Jarrod Gonzalez,10/17/1971,Married,Male,jarrod17@adventure-works.com,20000,1 (11) 500 555-0151,6/26/2022,Leipzig
+11563,Cesar,Srini,Cesar Srini,8/1/1971,Single,Male,cesar7@adventure-works.com,20000,1 (11) 500 555-0189,7/5/2022,London
+11564,Jorge,Liang,Jorge Liang,1/9/1972,Single,Male,jorge19@adventure-works.com,20000,1 (11) 500 555-0161,2/16/2021,Frankfurt am Main
+11565,Erik,Diaz,Erik Diaz,12/30/1971,Single,Male,erik4@adventure-works.com,20000,1 (11) 500 555-0157,9/8/2022,Berks
+11566,April,Shan,April Shan,3/1/1973,Married,Female,april8@adventure-works.com,40000,1 (11) 500 555-0172,1/28/2022,Cergy
+11567,Carla,Perez,Carla Perez,9/19/1978,Married,Female,carla24@adventure-works.com,40000,1 (11) 500 555-0146,3/15/2022,Berlin
+11568,Alexia,Foster,Alexia Foster,4/21/1972,Single,Female,alexia13@adventure-works.com,20000,1 (11) 500 555-0182,1/10/2021,Cheltenham
+11569,Troy,Malhotra,Troy Malhotra,5/6/1977,Married,Male,troy5@adventure-works.com,30000,1 (11) 500 555-0125,11/20/2022,West Sussex
+11570,Kristin,Andersen,Kristin Andersen,7/22/1971,Married,Female,kristin14@adventure-works.com,30000,1 (11) 500 555-0199,3/25/2021,Berlin
+11571,Joel,Sai,Joel Sai,11/15/1971,Married,Male,joel5@adventure-works.com,30000,1 (11) 500 555-0144,12/12/2021,Orleans
+11572,Billy,Moreno,Billy Moreno,3/11/1977,Married,Male,billy8@adventure-works.com,30000,1 (11) 500 555-0165,12/9/2021,Dunkerque
+11573,Meagan,Subram,Meagan Subram,11/11/1976,Single,Female,meagan13@adventure-works.com,20000,1 (11) 500 555-0144,7/27/2022,Woolston
+11574,Karla,Luo,Karla Luo,1/14/1971,Single,Female,karla6@adventure-works.com,20000,1 (11) 500 555-0139,3/15/2022,West Sussex
+11575,Jackson,Campbell,Jackson Campbell,10/19/1970,Single,Male,jackson37@adventure-works.com,20000,1 (11) 500 555-0182,1/20/2021,Leeds
+11576,Micah,Zhu,Micah Zhu,8/10/1970,Married,Male,micah1@adventure-works.com,30000,1 (11) 500 555-0185,12/15/2021,Croix
+11577,Janet,Serrano,Janet Serrano,4/21/1971,Married,Female,janet22@adventure-works.com,30000,1 (11) 500 555-0135,12/21/2021,Paris
+11578,Trisha,Huang,Trisha Huang,5/8/1970,Single,Female,trisha0@adventure-works.com,10000,1 (11) 500 555-0128,11/29/2021,Pantin
+11579,Clayton,Beck,Clayton Beck,2/13/1981,Single,Male,clayton38@adventure-works.com,20000,1 (11) 500 555-0184,7/31/2022,Warrington
+11580,Melvin,Raje,Melvin Raje,3/12/1939,Married,Male,melvin12@adventure-works.com,30000,1 (11) 500 555-0167,4/16/2022,Berkshire
+11581,Cindy,Jordan,Cindy Jordan,3/3/1972,Married,Female,cindy2@adventure-works.com,40000,1 (11) 500 555-0161,2/11/2022,Paris
+11582,Claudia,Ma,Claudia Ma,4/9/1974,Single,Female,claudia14@adventure-works.com,30000,1 (11) 500 555-0167,12/7/2021,Pantin
+11583,Karla,Xu,Karla Xu,3/26/1971,Single,Female,karla5@adventure-works.com,30000,1 (11) 500 555-0160,12/21/2021,Chatou
+11584,Devin,Carter,Devin Carter,5/22/1971,Married,Male,devin33@adventure-works.com,40000,1 (11) 500 555-0183,9/16/2022,Neunkirchen
+11585,Kari,Perez,Kari Perez,3/4/1976,Married,Female,kari21@adventure-works.com,40000,1 (11) 500 555-0192,1/10/2023,Billericay
+11586,Alberto,Romero,Alberto Romero,6/14/1971,Married,Male,alberto10@adventure-works.com,40000,1 (11) 500 555-0133,10/28/2022,York
+11587,Kevin,Bryant,Kevin Bryant,10/18/1975,Single,Male,kevin20@adventure-works.com,30000,1 (11) 500 555-0186,11/29/2021,Metz
+11588,Candace,Mehta,Candace Mehta,1/11/1970,Married,Female,candace14@adventure-works.com,30000,1 (11) 500 555-0112,11/29/2021,Saint-Denis
+11589,Ebony,Malhotra,Ebony Malhotra,5/1/1975,Married,Female,ebony4@adventure-works.com,40000,1 (11) 500 555-0113,6/4/2022,London
+11590,Erika,Diaz,Erika Diaz,4/12/1980,Single,Female,erika2@adventure-works.com,30000,1 (11) 500 555-0124,12/1/2021,Drancy
+11591,Stacey,Lu,Stacey Lu,11/12/1968,Single,Female,stacey12@adventure-works.com,30000,1 (11) 500 555-0157,1/11/2020,Versailles
+11592,Darrell,Raji,Darrell Raji,3/3/1984,Single,Male,darrell9@adventure-works.com,20000,1 (11) 500 555-0178,1/11/2020,Paris
+11593,Armando,Moreno,Armando Moreno,9/22/1982,Single,Male,armando6@adventure-works.com,20000,1 (11) 500 555-0165,1/21/2020,Orleans
+11594,Corey,Goel,Corey Goel,5/3/1985,Single,Male,corey16@adventure-works.com,20000,1 (11) 500 555-0111,8/17/2022,Verrieres Le Buisson
+11595,Sebastian,Howard,Sebastian Howard,12/29/1984,Single,Male,sebastian12@adventure-works.com,20000,1 (11) 500 555-0112,12/30/2022,Erlangen
+11596,Roger,Raje,Roger Raje,3/2/1969,Married,Male,roger41@adventure-works.com,40000,1 (11) 500 555-0154,10/1/2022,Runcorn
+11597,Janelle,Chandra,Janelle Chandra,8/6/1983,Single,Female,janelle2@adventure-works.com,30000,1 (11) 500 555-0161,1/5/2023,Orly
+11598,Meredith,Ruiz,Meredith Ruiz,12/30/1983,Single,Female,meredith24@adventure-works.com,30000,1 (11) 500 555-0113,3/11/2021,Saarbrücken
+11599,Melody,Diaz,Melody Diaz,3/16/1983,Single,Female,melody3@adventure-works.com,20000,1 (11) 500 555-0114,1/18/2020,Les Ulis
+11600,Linda,Rubio,Linda Rubio,10/5/1982,Single,Female,linda36@adventure-works.com,30000,1 (11) 500 555-0153,5/6/2022,Sèvres
+11601,Ivan,Raman,Ivan Raman,2/18/1983,Single,Male,ivan8@adventure-works.com,30000,1 (11) 500 555-0119,1/19/2020,Versailles
+11602,Larry,Gill,Larry Gill,10/11/1982,Single,Male,larry16@adventure-works.com,30000,1 (11) 500 555-0125,7/10/2022,Salzgitter
+11603,Geoffrey,Gonzalez,Geoffrey Gonzalez,8/6/1982,Single,Male,geoffrey16@adventure-works.com,30000,1 (11) 500 555-0131,1/18/2021,London
+11604,Edgar,Sanchez,Edgar Sanchez,12/1/1982,Single,Male,edgar21@adventure-works.com,30000,1 (11) 500 555-0117,1/3/2021,Wokingham
+11605,Heidi,Subram,Heidi Subram,5/20/1982,Single,Female,heidi15@adventure-works.com,20000,1 (11) 500 555-0183,3/8/2021,Stuttgart
+11606,Melody,Ramos,Melody Ramos,1/30/1986,Single,Female,melody17@adventure-works.com,10000,1 (11) 500 555-0182,1/8/2020,Morangis
+11607,Clinton,Moreno,Clinton Moreno,5/5/1986,Single,Male,clinton3@adventure-works.com,20000,1 (11) 500 555-0152,1/19/2020,Paris
+11608,Cesar,Madan,Cesar Madan,9/1/1981,Single,Male,cesar6@adventure-works.com,20000,1 (11) 500 555-0157,12/13/2022,Paris La Defense
+11609,Eugene,Ye,Eugene Ye,12/24/1981,Single,Male,eugene13@adventure-works.com,30000,1 (11) 500 555-0128,1/28/2021,York
+11610,Blake,Collins,Blake Collins,10/20/1980,Single,Male,blake47@adventure-works.com,30000,1 (11) 500 555-0140,1/10/2021,Stoke-on-Trent
+11611,Ernest,Lin,Ernest Lin,2/23/1985,Married,Male,ernest7@adventure-works.com,20000,1 (11) 500 555-0190,1/23/2020,Orleans
+11612,Keith,Andersen,Keith Andersen,10/7/1985,Single,Male,keith16@adventure-works.com,20000,1 (11) 500 555-0182,2/2/2021,Berkshire
+11613,Meredith,Prasad,Meredith Prasad,5/2/1981,Single,Female,meredith8@adventure-works.com,30000,1 (11) 500 555-0162,5/13/2021,Leipzig
+11614,Katrina,Sharma,Katrina Sharma,2/13/1981,Single,Female,katrina8@adventure-works.com,30000,1 (11) 500 555-0115,5/10/2021,Offenbach
+11615,Dwayne,Navarro,Dwayne Navarro,5/20/1981,Married,Male,dwayne9@adventure-works.com,40000,1 (11) 500 555-0163,2/22/2021,Lancaster
+11616,Casey,Nath,Casey Nath,9/5/1980,Married,Female,casey20@adventure-works.com,40000,1 (11) 500 555-0130,2/3/2021,Milton Keynes
+11617,Sean,Brooks,Sean Brooks,10/1/1964,Single,Male,sean8@adventure-works.com,60000,294-555-0111,9/10/2020,Grossmont
+11618,Brian,Ramirez,Brian Ramirez,10/21/1964,Married,Male,brian19@adventure-works.com,60000,167-555-0144,2/9/2022,Cliffside
+11619,Sierra,Young,Sierra Young,10/29/1978,Single,Female,sierra15@adventure-works.com,50000,410-555-0125,2/8/2022,Victoria
+11620,Megan,Rodriguez,Megan Rodriguez,10/18/1978,Single,Female,megan23@adventure-works.com,50000,156-555-0144,2/8/2022,Bellingham
+11621,Leah,She,Leah She,8/19/1978,Single,Female,leah19@adventure-works.com,50000,787-555-0163,8/1/2022,Bremerton
+11622,Gabriel,Allen,Gabriel Allen,6/16/1979,Married,Male,gabriel53@adventure-works.com,50000,787-555-0146,4/8/2022,Kirkland
+11623,Angela,Perry,Angela Perry,12/25/1978,Single,Female,angela10@adventure-works.com,50000,198-555-0159,9/7/2020,Fremont
+11624,Ryan,Smith,Ryan Smith,3/19/1984,Single,Male,ryan39@adventure-works.com,50000,394-555-0168,9/21/2020,Mill Valley
+11625,Zachary,Moore,Zachary Moore,7/19/1978,Married,Male,zachary37@adventure-works.com,50000,209-555-0118,9/24/2020,Palo Alto
+11626,Destiny,Rogers,Destiny Rogers,12/12/1978,Married,Female,destiny26@adventure-works.com,50000,262-555-0170,9/1/2020,San Francisco
+11627,Dalton,Gray,Dalton Gray,8/27/1978,Married,Male,dalton76@adventure-works.com,60000,263-555-0144,8/27/2022,Spring Valley
+11628,Mariah,Wood,Mariah Wood,11/14/1977,Single,Female,mariah6@adventure-works.com,40000,662-555-0125,9/12/2020,Bellflower
+11629,Isaiah,Wright,Isaiah Wright,8/7/1976,Single,Male,isaiah45@adventure-works.com,40000,525-555-0190,9/25/2020,Newport Beach
+11630,Haley,Powell,Haley Powell,6/23/1977,Married,Female,haley27@adventure-works.com,60000,200-555-0198,9/21/2020,Seattle
+11631,Antonio,Bennett,Antonio Bennett,8/12/1976,Married,Male,antonio1@adventure-works.com,60000,380-555-0192,2/7/2022,Langley
+11632,Alexandra,Jenkins,Alexandra Jenkins,5/2/1982,Married,Female,alexandra30@adventure-works.com,60000,664-555-0121,1/30/2022,Langford
+11633,Thomas,Anderson,Thomas Anderson,11/23/1977,Married,Male,thomas71@adventure-works.com,40000,315-555-0121,11/13/2022,Burien
+11634,Samuel,Collins,Samuel Collins,12/10/1977,Married,Male,samuel33@adventure-works.com,60000,385-555-0179,3/11/2022,Puyallup
+11635,Darrell,Chande,Darrell Chande,8/11/1983,Married,Male,darrell4@adventure-works.com,60000,455-555-0152,2/8/2022,Beverly Hills
+11636,Kimberly,Cox,Kimberly Cox,6/21/1978,Single,Female,kimberly14@adventure-works.com,60000,383-555-0177,9/11/2022,Daly City
+11637,Morgan,Hernandez,Morgan Hernandez,8/11/1983,Married,Female,morgan15@adventure-works.com,70000,379-555-0153,2/8/2022,Los Angeles
+11638,Antonio,Powell,Antonio Powell,9/9/1977,Married,Male,antonio8@adventure-works.com,70000,966-555-0128,10/19/2022,Mill Valley
+11639,Angelica,Perry,Angelica Perry,6/22/1978,Married,Female,angelica7@adventure-works.com,70000,936-555-0157,11/9/2022,Mill Valley
+11640,Chloe,Wilson,Chloe Wilson,10/31/1975,Married,Female,chloe40@adventure-works.com,50000,748-555-0137,3/15/2022,Langford
+11641,James,Chen,James Chen,2/9/1976,Married,Male,james41@adventure-works.com,50000,143-555-0119,1/30/2022,Cliffside
+11642,Morgan,Hughes,Morgan Hughes,6/24/1976,Married,Female,morgan81@adventure-works.com,50000,165-555-0182,2/9/2022,Oak Bay
+11643,Naomi,Munoz,Naomi Munoz,1/24/1976,Married,Female,naomi7@adventure-works.com,50000,293-555-0147,4/21/2022,Burien
+11644,Charles,Torres,Charles Torres,4/6/1975,Single,Male,charles52@adventure-works.com,40000,202-555-0114,5/17/2022,Redmond
+11645,Gabriella,Turner,Gabriella Turner,4/18/1975,Single,Female,gabriella27@adventure-works.com,40000,131-555-0142,11/10/2022,Salem
+11646,Anna,Foster,Anna Foster,3/15/1980,Single,Female,anna41@adventure-works.com,40000,288-555-0189,7/15/2022,Burien
+11647,Randy,Wu,Randy Wu,3/22/1975,Single,Male,randy8@adventure-works.com,40000,189-555-0124,2/15/2022,Cliffside
+11648,Kevin,Scott,Kevin Scott,4/12/1980,Single,Male,kevin50@adventure-works.com,60000,364-555-0111,8/28/2022,Chula Vista
+11649,Ian,White,Ian White,1/23/1980,Married,Male,ian12@adventure-works.com,60000,200-555-0138,4/5/2022,Newport Beach
+11650,Caleb,Hayes,Caleb Hayes,1/23/1975,Married,Male,caleb19@adventure-works.com,60000,243-555-0128,2/15/2022,Glendale
+11651,Patricia,Garcia,Patricia Garcia,12/13/1982,Married,Female,patricia18@adventure-works.com,60000,501-555-0174,3/4/2022,Cliffside
+11652,Samuel,Russell,Samuel Russell,5/1/1982,Married,Male,samuel19@adventure-works.com,60000,828-555-0112,6/26/2022,Vancouver
+11653,Sydney,Peterson,Sydney Peterson,6/4/1982,Single,Female,sydney15@adventure-works.com,60000,848-555-0130,4/16/2022,Lebanon
+11654,Ariana,Sanchez,Ariana Sanchez,3/18/1977,Married,Female,ariana22@adventure-works.com,60000,435-555-0160,10/18/2020,Bellflower
+11655,Tamara,Sharma,Tamara Sharma,3/28/1982,Single,Female,tamara21@adventure-works.com,70000,164-555-0166,9/29/2022,Concord
+11656,Katelyn,Perez,Katelyn Perez,3/19/1977,Married,Female,katelyn35@adventure-works.com,70000,864-555-0116,9/11/2022,Imperial Beach
+11657,Megan,Cox,Megan Cox,10/31/1976,Married,Female,megan39@adventure-works.com,70000,466-555-0163,5/25/2022,Novato
+11658,Robert,Mitchell,Robert Mitchell,8/3/1985,Married,Male,robert53@adventure-works.com,60000,132-555-0112,4/23/2022,Oakland
+11659,Miguel,Adams,Miguel Adams,10/20/1974,Single,Male,miguel32@adventure-works.com,60000,910-555-0185,5/9/2022,Sooke
+11660,Miranda,Gonzales,Miranda Gonzales,1/19/1980,Married,Female,miranda17@adventure-works.com,60000,343-555-0197,5/8/2022,Port Hammond
+11661,Jeremiah,James,Jeremiah James,1/3/1981,Single,Male,jeremiah39@adventure-works.com,60000,716-555-0117,4/6/2022,Cliffside
+11662,Ethan,Kumar,Ethan Kumar,1/1/1976,Single,Male,ethan24@adventure-works.com,60000,214-555-0118,5/6/2022,Milwaukie
+11663,Seth,Williams,Seth Williams,8/25/1975,Married,Male,seth2@adventure-works.com,70000,878-555-0119,10/28/2020,Walla Walla
+11664,Alyssa,Morgan,Alyssa Morgan,8/9/1975,Single,Female,alyssa30@adventure-works.com,70000,144-555-0113,10/27/2020,Burlingame
+11665,Janet,Dominguez,Janet Dominguez,6/11/1976,Married,Female,janet18@adventure-works.com,70000,142-555-0139,10/13/2020,Chula Vista
+11666,Angel,Baker,Angel Baker,12/13/1981,Married,Male,angel30@adventure-works.com,80000,616-555-0161,10/17/2020,Torrance
+11667,Blake,Moore,Blake Moore,12/18/1972,Married,Male,blake7@adventure-works.com,70000,485-555-0144,7/4/2022,Walla Walla
+11668,Jada,Collins,Jada Collins,3/2/1984,Single,Female,jada15@adventure-works.com,70000,169-555-0194,12/16/2022,Beverly Hills
+11669,Isabella,Simmons,Isabella Simmons,10/17/1978,Single,Female,isabella25@adventure-works.com,70000,424-555-0125,8/18/2022,Tacoma
+11670,Jacqueline,Perry,Jacqueline Perry,4/15/1973,Single,Female,jacqueline8@adventure-works.com,70000,172-555-0136,4/13/2022,Grossmont
+11671,Jessica,Brown,Jessica Brown,11/15/1971,Single,Female,jessica51@adventure-works.com,60000,895-555-0138,10/21/2020,El Cajon
+11672,Chad,Jai,Chad Jai,3/20/1972,Married,Male,chad13@adventure-works.com,60000,355-555-0162,7/25/2022,Beverly Hills
+11673,Susan,Ye,Susan Ye,2/3/1977,Single,Female,susan19@adventure-works.com,60000,268-555-0189,1/30/2022,Burien
+11674,Morgan,Rogers,Morgan Rogers,2/15/1972,Married,Female,morgan49@adventure-works.com,60000,405-555-0116,5/30/2022,Woodland Hills
+11675,Devin,Martinez,Devin Martinez,1/29/1977,Single,Male,devin16@adventure-works.com,70000,594-555-0155,10/25/2020,Everett
+11676,Alan,Hu,Alan Hu,8/13/1971,Married,Male,alan24@adventure-works.com,80000,723-555-0187,8/20/2022,Branch
+11677,Charles,Walker,Charles Walker,10/10/1980,Single,Male,charles27@adventure-works.com,60000,162-555-0110,4/5/2022,Haney
+11678,Johnny,Chavez,Johnny Chavez,7/28/1974,Married,Male,johnny16@adventure-works.com,70000,895-555-0161,10/10/2020,Cheyenne
+11679,Dalton,Richardson,Dalton Richardson,11/5/1974,Married,Male,dalton80@adventure-works.com,70000,385-555-0179,10/13/2022,Puyallup
+11680,Kaylee,Nelson,Kaylee Nelson,3/4/1975,Married,Female,kaylee31@adventure-works.com,70000,139-555-0186,9/1/2022,Redmond
+11681,Abigail,Jones,Abigail Jones,2/4/1975,Married,Female,abigail50@adventure-works.com,70000,889-555-0151,3/7/2022,Spokane
+11682,Kaitlyn,Hall,Kaitlyn Hall,3/12/1980,Married,Female,kaitlyn46@adventure-works.com,70000,209-555-0173,9/5/2022,Tacoma
+11683,Greg,Taylor,Greg Taylor,7/5/1974,Married,Male,greg10@adventure-works.com,80000,959-555-0135,10/5/2020,El Cajon
+11684,Devin,Parker,Devin Parker,3/31/1971,Single,Male,devin40@adventure-works.com,40000,897-555-0155,7/1/2022,Redmond
+11685,Jose,Griffin,Jose Griffin,8/7/1970,Married,Male,jose15@adventure-works.com,40000,789-555-0114,3/11/2022,Milwaukie
+11686,Luke,Edwards,Luke Edwards,4/9/1976,Single,Male,luke33@adventure-works.com,40000,815-555-0192,3/8/2022,Glendale
+11687,Cody,Torres,Cody Torres,7/9/1976,Single,Male,cody5@adventure-works.com,40000,269-555-0120,4/12/2022,La Jolla
+11688,Victoria,Morris,Victoria Morris,12/21/1976,Single,Female,victoria26@adventure-works.com,80000,178-555-0156,10/2/2020,Sedro Woolley
+11689,Ian,Diaz,Ian Diaz,3/6/1971,Married,Male,ian62@adventure-works.com,80000,136-555-0185,8/26/2022,Edmonds
+11690,Caroline,Butler,Caroline Butler,1/10/1976,Married,Female,caroline15@adventure-works.com,60000,101-555-0110,10/25/2020,Port Orchard
+11691,Kaitlyn,Wilson,Kaitlyn Wilson,12/30/1974,Single,Female,kaitlyn29@adventure-works.com,40000,968-555-0196,2/8/2022,Imperial Beach
+11692,Caleb,Gonzales,Caleb Gonzales,12/17/1969,Married,Male,caleb14@adventure-works.com,40000,475-555-0114,7/7/2022,Burbank
+11693,Hailey,Diaz,Hailey Diaz,9/21/1975,Single,Female,hailey42@adventure-works.com,50000,835-555-0168,1/28/2022,Haney
+11694,Jonathon,Ortega,Jonathon Ortega,9/21/1969,Married,Male,jonathon16@adventure-works.com,50000,733-555-0157,4/11/2022,Colma
+11695,Logan,Campbell,Logan Campbell,7/10/1969,Married,Male,logan33@adventure-works.com,50000,164-555-0159,4/9/2022,Beverly Hills
+11696,Mackenzie,Campbell,Mackenzie Campbell,4/2/1975,Single,Female,mackenzie29@adventure-works.com,50000,786-555-0184,10/1/2020,Tacoma
+11697,Eduardo,Lee,Eduardo Lee,6/21/1975,Married,Male,eduardo21@adventure-works.com,50000,993-555-0176,8/7/2022,Oakland
+11698,Jackson,Wright,Jackson Wright,11/22/1975,Married,Male,jackson51@adventure-works.com,50000,112-555-0181,3/31/2022,Metchosin
+11699,Chase,Peterson,Chase Peterson,9/12/1968,Single,Male,chase5@adventure-works.com,60000,369-555-0167,5/29/2022,Walla Walla
+11700,Xavier,Richardson,Xavier Richardson,5/24/1969,Single,Male,xavier76@adventure-works.com,60000,578-555-0132,2/2/2022,Woodland Hills
+11701,David,Hayes,David Hayes,8/16/1985,Married,Male,david56@adventure-works.com,60000,872-555-0191,4/24/2022,Novato
+11702,Jenny,Zhou,Jenny Zhou,10/13/1974,Single,Female,jenny11@adventure-works.com,60000,763-555-0124,5/17/2022,Burlingame
+11703,Kaylee,Baker,Kaylee Baker,12/22/1973,Single,Female,kaylee39@adventure-works.com,60000,609-555-0179,2/13/2022,La Jolla
+11704,Evan,Hernandez,Evan Hernandez,11/29/1973,Single,Male,evan45@adventure-works.com,60000,592-555-0143,7/7/2022,Santa Cruz
+11705,Brooke,Richardson,Brooke Richardson,5/18/1979,Single,Female,brooke9@adventure-works.com,60000,752-555-0155,10/28/2020,Woodland Hills
+11706,Blake,Perez,Blake Perez,8/13/1968,Married,Male,blake39@adventure-works.com,60000,146-555-0191,3/8/2022,Burlingame
+11707,Natalie,Cook,Natalie Cook,6/20/1969,Single,Female,natalie5@adventure-works.com,60000,468-555-0193,10/10/2020,Woodland Hills
+11708,Elizabeth,Weisman,Elizabeth Weisman,9/15/1974,Single,Female,elizabeth6@adventure-works.com,60000,117-555-0118,10/25/2020,Lincoln Acres
+11709,Hailey,Collins,Hailey Collins,8/18/1968,Single,Female,hailey45@adventure-works.com,60000,394-555-0185,3/11/2022,Victoria
+11710,Zoe,Ramirez,Zoe Ramirez,9/17/1967,Married,Female,zoe6@adventure-works.com,40000,712-555-0144,11/23/2022,La Jolla
+11711,Daniel,Davis,Daniel Davis,12/4/1973,Single,Male,daniel23@adventure-works.com,70000,217-555-0147,2/7/2022,N. Vancouver
+11712,Shelby,Rogers,Shelby Rogers,5/2/1968,Married,Female,shelby19@adventure-works.com,70000,187-555-0139,2/4/2022,Haney
+11713,Kyle,Zhang,Kyle Zhang,9/17/1967,Married,Male,kyle19@adventure-works.com,70000,793-555-0118,7/7/2022,Kirkland
+11714,Alexandria,Long,Alexandria Long,4/16/1968,Married,Female,alexandria9@adventure-works.com,70000,676-555-0172,2/18/2022,San Diego
+11715,Chloe,Robinson,Chloe Robinson,3/20/1968,Married,Female,chloe28@adventure-works.com,70000,570-555-0117,12/26/2022,San Gabriel
+11716,Evan,Kelly,Evan Kelly,4/20/1967,Single,Male,evan2@adventure-works.com,40000,222-555-0139,5/31/2022,Daly City
+11717,Marcus,Jones,Marcus Jones,8/29/1972,Married,Male,marcus3@adventure-works.com,60000,465-555-0162,5/25/2022,Corvallis
+11718,Sarah,Jones,Sarah Jones,11/10/1972,Married,Female,sarah5@adventure-works.com,60000,585-555-0177,3/6/2022,Oregon City
+11719,Blake,Green,Blake Green,5/5/1971,Married,Male,blake32@adventure-works.com,40000,397-555-0128,4/26/2022,Cliffside
+11720,Morgan,Morris,Morgan Morris,9/23/1965,Married,Female,morgan48@adventure-works.com,40000,178-555-0115,5/17/2022,San Diego
+11721,Jennifer,Alexander,Jennifer Alexander,1/18/1971,Married,Female,jennifer92@adventure-works.com,40000,623-555-0122,6/15/2022,Lincoln Acres
+11722,Julian,Hughes,Julian Hughes,12/30/1965,Married,Male,julian13@adventure-works.com,60000,301-555-0114,7/30/2022,Bellingham
+11723,Luke,Coleman,Luke Coleman,2/17/1973,Single,Male,luke24@adventure-works.com,70000,959-555-0119,1/31/2022,Shawnee
+11724,Jason,Carter,Jason Carter,10/12/1972,Single,Male,jason39@adventure-works.com,70000,234-555-0170,2/5/2022,Shawnee
+11725,Jose,Li,Jose Li,3/16/1973,Single,Male,jose20@adventure-works.com,70000,145-555-0188,4/1/2022,Burien
+11726,Micah,Liang,Micah Liang,1/13/1973,Single,Male,micah4@adventure-works.com,70000,843-555-0120,10/10/2022,Burien
+11727,Benjamin,Taylor,Benjamin Taylor,1/5/1973,Single,Male,benjamin43@adventure-works.com,60000,571-555-0135,10/12/2020,National City
+11728,Logan,White,Logan White,7/6/1965,Married,Male,logan64@adventure-works.com,60000,710-555-0132,6/11/2022,Woodburn
+11729,Caleb,Campbell,Caleb Campbell,5/3/1971,Married,Male,caleb36@adventure-works.com,60000,459-555-0187,7/27/2022,Kirkland
+11730,Emma,Torres,Emma Torres,4/1/1966,Married,Female,emma40@adventure-works.com,60000,192-555-0182,5/11/2022,Redmond
+11731,Tanya,Gill,Tanya Gill,2/16/1966,Married,Female,tanya10@adventure-works.com,60000,742-555-0111,3/16/2022,Burlingame
+11732,Erick,Sanchez,Erick Sanchez,2/4/1970,Married,Male,erick20@adventure-works.com,60000,827-555-0145,6/9/2022,Cincinnati
+11733,Kristi,Schmidt,Kristi Schmidt,7/23/1970,Married,Female,kristi27@adventure-works.com,60000,995-555-0114,1/1/2023,Concord
+11734,Omar,Chen,Omar Chen,8/21/1970,Married,Male,omar2@adventure-works.com,60000,938-555-0117,6/21/2022,Coronado
+11735,Sydney,Gray,Sydney Gray,7/21/1964,Married,Female,sydney16@adventure-works.com,60000,637-555-0114,2/24/2022,Lynnwood
+11736,Sebastian,Sanchez,Sebastian Sanchez,9/21/1970,Married,Male,sebastian16@adventure-works.com,60000,404-555-0117,10/17/2022,Fremont
+11737,Megan,Martin,Megan Martin,2/4/1970,Married,Female,megan17@adventure-works.com,60000,612-555-0171,2/14/2022,Redwood City
+11738,Elijah,Alexander,Elijah Alexander,10/5/1970,Married,Male,elijah20@adventure-works.com,60000,100-555-0155,2/2/2022,Oak Bay
+11739,Aaron,King,Aaron King,11/10/1964,Married,Male,aaron51@adventure-works.com,70000,600-555-0195,1/13/2022,Shawnee
+11740,Jan,Hall,Jan Hall,10/21/1964,Married,Female,jan18@adventure-works.com,70000,118-555-0131,3/7/2022,Vancouver
+11741,Tamara,Chander,Tamara Chander,1/22/1965,Married,Female,tamara27@adventure-works.com,80000,112-555-0164,10/15/2020,Chula Vista
+11742,Edward,Lewis,Edward Lewis,5/1/1964,Single,Male,edward43@adventure-works.com,60000,936-555-0189,10/3/2020,Redwood City
+11743,Chase,Kelly,Chase Kelly,9/9/1974,Married,Male,chase3@adventure-works.com,60000,153-555-0118,10/25/2020,Spring Valley
+11744,Stephanie,Campbell,Stephanie Campbell,3/6/1964,Married,Female,stephanie54@adventure-works.com,60000,712-555-0117,4/13/2022,Spring Valley
+11745,Allison,Gonzalez,Allison Gonzalez,4/11/1964,Married,Female,allison31@adventure-works.com,60000,728-555-0144,10/10/2020,Walla Walla
+11746,Seth,Brooks,Seth Brooks,5/30/1964,Single,Male,seth74@adventure-works.com,60000,771-555-0118,1/28/2022,Tacoma
+11747,Destiny,Davis,Destiny Davis,8/9/1963,Married,Female,destiny5@adventure-works.com,70000,251-555-0153,8/7/2022,Edmonds
+11748,Blake,Hill,Blake Hill,1/15/1964,Married,Male,blake30@adventure-works.com,70000,171-555-0174,6/7/2022,Victoria
+11749,Eduardo,Jackson,Eduardo Jackson,9/9/1980,Married,Male,eduardo10@adventure-works.com,80000,1 (11) 500 555-0114,4/8/2022,Coffs Harbour
+11750,Latoya,She,Latoya She,9/17/1984,Married,Female,latoya0@adventure-works.com,60000,1 (11) 500 555-0166,7/14/2020,Newcastle
+11751,Victoria,Gonzales,Victoria Gonzales,1/14/1976,Married,Female,victoria63@adventure-works.com,80000,1 (11) 500 555-0176,7/8/2020,Melton
+11752,Lauren,Bryant,Lauren Bryant,5/3/1981,Married,Female,lauren64@adventure-works.com,80000,1 (11) 500 555-0156,2/27/2022,Goulburn
+11753,Felicia,Ortega,Felicia Ortega,9/15/1975,Married,Female,felicia20@adventure-works.com,80000,1 (11) 500 555-0185,4/19/2022,Coffs Harbour
+11754,Janet,Ortega,Janet Ortega,1/5/1976,Married,Female,janet27@adventure-works.com,90000,1 (11) 500 555-0182,7/16/2020,Malabar
+11755,Willie,Pal,Willie Pal,11/12/1973,Married,Male,willie31@adventure-works.com,60000,1 (11) 500 555-0164,5/31/2022,Hervey Bay
+11756,Linda,Ortega,Linda Ortega,3/13/1974,Single,Female,linda37@adventure-works.com,60000,1 (11) 500 555-0150,7/28/2020,St. Leonards
+11757,Vincent,Cai,Vincent Cai,5/11/1979,Married,Male,vincent21@adventure-works.com,70000,1 (11) 500 555-0116,2/23/2022,Cranbourne
+11758,Colin,Yuan,Colin Yuan,12/19/1979,Married,Male,colin30@adventure-works.com,70000,1 (11) 500 555-0170,3/30/2022,Darlinghurst
+11759,Dawn,Nath,Dawn Nath,11/18/1980,Married,Female,dawn42@adventure-works.com,110000,1 (11) 500 555-0193,7/10/2020,Cloverdale
+11760,Melody,Moreno,Melody Moreno,4/25/1973,Married,Female,melody7@adventure-works.com,70000,1 (11) 500 555-0163,3/31/2022,Findon
+11761,Edgar,Mehta,Edgar Mehta,10/16/1972,Single,Male,edgar15@adventure-works.com,70000,1 (11) 500 555-0180,8/5/2020,Hobart
+11762,Randall,Gomez,Randall Gomez,2/17/1984,Married,Male,randall2@adventure-works.com,70000,1 (11) 500 555-0179,8/7/2020,Wollongong
+11763,Ross,Fernandez,Ross Fernandez,8/10/1972,Married,Male,ross15@adventure-works.com,80000,1 (11) 500 555-0177,1/30/2022,Springwood
+11764,Jessie,Ramos,Jessie Ramos,1/13/1973,Single,Female,jessie36@adventure-works.com,80000,1 (11) 500 555-0112,9/9/2020,Newcastle
+11765,Marc,Torres,Marc Torres,4/6/1983,Married,Male,marc15@adventure-works.com,80000,1 (11) 500 555-0131,9/12/2020,North Ryde
+11766,Candace,Raman,Candace Raman,1/1/1972,Single,Female,candace12@adventure-works.com,90000,1 (11) 500 555-0148,9/19/2020,South Melbourne
+11767,Meagan,Madan,Meagan Madan,5/20/1977,Single,Female,meagan8@adventure-works.com,90000,1 (11) 500 555-0112,9/17/2020,Hawthorne
+11768,Clayton,Nara,Clayton Nara,4/3/1983,Married,Male,clayton34@adventure-works.com,90000,1 (11) 500 555-0162,9/3/2020,Perth
+11769,Haley,Hernandez,Haley Hernandez,2/14/1979,Single,Female,haley53@adventure-works.com,50000,120-555-0112,4/28/2022,Newton
+11770,Peter,Nara,Peter Nara,2/20/1979,Single,Male,peter21@adventure-works.com,50000,244-555-0113,8/8/2022,Ballard
+11771,Isaac,Rivera,Isaac Rivera,4/7/1979,Single,Male,isaac16@adventure-works.com,50000,750-555-0140,3/31/2022,Marysville
+11772,Cameron,Moore,Cameron Moore,1/21/1984,Married,Male,cameron48@adventure-works.com,50000,293-555-0136,10/8/2020,Tacoma
+11773,Gavin,Diaz,Gavin Diaz,1/3/1979,Single,Male,gavin20@adventure-works.com,50000,726-555-0116,10/23/2020,El Cajon
+11774,Emma,Sanchez,Emma Sanchez,10/10/1978,Married,Female,emma25@adventure-works.com,50000,365-555-0125,10/26/2020,National City
+11775,Sierra,Roberts,Sierra Roberts,11/22/1978,Single,Female,sierra3@adventure-works.com,50000,111-555-0177,10/3/2020,Palo Alto
+11776,Seth,Mitchell,Seth Mitchell,12/31/1978,Married,Male,seth38@adventure-works.com,50000,171-555-0140,10/5/2020,Santa Cruz
+11777,Miranda,Long,Miranda Long,1/21/1978,Single,Female,miranda9@adventure-works.com,40000,258-555-0111,10/14/2020,Burlingame
+11778,Haley,Henderson,Haley Henderson,9/17/1976,Single,Female,haley24@adventure-works.com,60000,868-555-0128,10/27/2020,Sedro Woolley
+11779,Sarah,Jackson,Sarah Jackson,1/15/1977,Single,Female,sarah14@adventure-works.com,60000,653-555-0150,10/17/2020,Woodburn
+11780,Jessica,Alexander,Jessica Alexander,5/19/1977,Single,Female,jessica43@adventure-works.com,60000,617-555-0146,10/15/2020,Edmonds
+11781,Carlos,Gray,Carlos Gray,9/6/1976,Married,Male,carlos7@adventure-works.com,60000,252-555-0175,3/6/2022,Daly City
+11782,Barbara,Jai,Barbara Jai,3/13/1982,Married,Female,barbara42@adventure-works.com,60000,361-555-0177,8/2/2022,Burbank
+11783,Sara,Mitchell,Sara Mitchell,11/13/1982,Married,Female,sara37@adventure-works.com,60000,537-555-0144,3/23/2022,San Diego
+11784,Jose,Turner,Jose Turner,6/18/1978,Married,Male,jose42@adventure-works.com,40000,189-555-0195,4/12/2022,Metchosin
+11785,Theodore,Diaz,Theodore Diaz,2/21/1983,Married,Male,theodore3@adventure-works.com,40000,690-555-0189,4/21/2022,Ballard
+11786,Ian,Murphy,Ian Murphy,3/13/1978,Single,Male,ian82@adventure-works.com,60000,754-555-0141,12/29/2022,Redmond
+11787,Jerry,Nath,Jerry Nath,3/5/1978,Married,Male,jerry20@adventure-works.com,60000,271-555-0115,10/13/2022,Burbank
+11788,Destiny,James,Destiny James,8/18/1977,Single,Female,destiny43@adventure-works.com,70000,913-555-0130,5/9/2022,Los Angeles
+11789,Bailey,Phillips,Bailey Phillips,2/16/1981,Married,Female,bailey27@adventure-works.com,50000,474-555-0183,3/7/2022,National City
+11790,Timothy,Gonzalez,Timothy Gonzalez,5/17/1981,Married,Male,timothy34@adventure-works.com,50000,147-555-0193,3/11/2022,Chula Vista
+11791,Chase,Morgan,Chase Morgan,10/19/1975,Married,Male,chase13@adventure-works.com,60000,194-555-0127,9/29/2022,Spokane
+11792,Alexia,Perry,Alexia Perry,11/24/1974,Married,Female,alexia7@adventure-works.com,40000,193-555-0135,5/3/2022,Colma
+11793,Xavier,Rogers,Xavier Rogers,3/16/1980,Married,Male,xavier87@adventure-works.com,40000,457-555-0162,2/4/2022,Burbank
+11794,Lauren,Ross,Lauren Ross,5/1/1975,Single,Female,lauren51@adventure-works.com,40000,143-555-0123,11/28/2022,Lakewood
+11795,Nicole,Thomas,Nicole Thomas,8/15/1974,Single,Female,nicole11@adventure-works.com,40000,667-555-0136,7/12/2022,Downey
+11796,Isabel,Jenkins,Isabel Jenkins,8/3/1985,Single,Female,isabel7@adventure-works.com,40000,774-555-0127,10/16/2020,Downey
+11797,Devin,Coleman,Devin Coleman,3/3/1980,Single,Male,devin44@adventure-works.com,40000,792-555-0157,10/14/2020,Oakland
+11798,Brendan,Chande,Brendan Chande,8/12/1974,Married,Male,brendan13@adventure-works.com,40000,551-555-0157,10/15/2020,Bremerton
+11799,Jessie,Wang,Jessie Wang,9/9/1980,Married,Male,jessie7@adventure-works.com,40000,527-555-0124,10/10/2020,Burien
+11800,Jennifer,Baker,Jennifer Baker,5/7/1975,Married,Female,jennifer19@adventure-works.com,60000,506-555-0157,8/10/2022,Beaverton
+11801,Aaron,Sharma,Aaron Sharma,3/16/1975,Married,Male,aaron30@adventure-works.com,60000,500-555-0177,12/12/2022,Beaverton
+11802,Madison,Taylor,Madison Taylor,2/5/1977,Married,Female,madison9@adventure-works.com,60000,635-555-0173,2/25/2022,Oak Bay
+11803,Jan,Hernandez,Jan Hernandez,3/11/1977,Single,Female,jan15@adventure-works.com,60000,845-555-0160,7/29/2022,Olympia
+11804,Haley,Turner,Haley Turner,10/15/1976,Married,Female,haley44@adventure-works.com,60000,489-555-0139,5/29/2022,Redmond
+11805,Richard,Green,Richard Green,9/8/1976,Married,Male,richard25@adventure-works.com,70000,142-555-0146,4/23/2022,Beverly Hills
+11806,Jennifer,Stewart,Jennifer Stewart,8/6/1982,Married,Female,jennifer52@adventure-works.com,70000,159-555-0111,2/21/2022,Burlingame
+11807,Lucas,Baker,Lucas Baker,3/3/1977,Married,Male,lucas48@adventure-works.com,70000,787-555-0141,4/13/2022,National City
+11808,James,Parker,James Parker,10/10/1974,Married,Male,james57@adventure-works.com,60000,730-555-0125,3/26/2022,N. Vancouver
+11809,Juan,Gray,Juan Gray,7/1/1973,Married,Male,juan16@adventure-works.com,60000,995-555-0114,10/21/2020,Beverly Hills
+11810,Antonio,Washington,Antonio Washington,1/3/1978,Single,Male,antonio13@adventure-works.com,40000,373-555-0139,10/20/2020,Bremerton
+11811,Abigail,Brooks,Abigail Brooks,6/11/1978,Single,Female,abigail22@adventure-works.com,40000,367-555-0138,10/15/2020,Colma
+11812,Andrew,Rodriguez,Andrew Rodriguez,3/21/1973,Married,Male,andrew27@adventure-works.com,40000,586-555-0118,10/3/2020,Walla Walla
+11813,Mary,Patterson,Mary Patterson,5/11/1973,Married,Female,mary40@adventure-works.com,40000,956-555-0136,10/16/2020,W. Linn
+11814,Dalton,Morgan,Dalton Morgan,1/5/1976,Married,Male,dalton84@adventure-works.com,60000,530-555-0182,6/23/2022,Lake Oswego
+11815,Hannah,Patterson,Hannah Patterson,4/20/1981,Married,Female,hannah33@adventure-works.com,70000,110-555-0136,10/2/2020,Tacoma
+11816,Joe,Torres,Joe Torres,10/19/1981,Married,Male,joe35@adventure-works.com,70000,450-555-0115,10/2/2020,Beverly Hills
+11817,Morgan,Miller,Morgan Miller,11/23/1981,Single,Female,morgan29@adventure-works.com,70000,339-555-0137,10/13/2020,Colma
+11818,Daniel,Garcia,Daniel Garcia,10/20/1975,Married,Male,daniel8@adventure-works.com,70000,125-555-0145,10/21/2020,Coronado
+11819,Jose,Lal,Jose Lal,4/8/1973,Married,Male,jose23@adventure-works.com,70000,152-555-0130,2/15/2022,Everett
+11820,Katelyn,Lopez,Katelyn Lopez,8/22/1977,Married,Female,katelyn45@adventure-works.com,60000,316-555-0185,2/9/2022,Victoria
+11821,Austin,Johnson,Austin Johnson,10/13/1971,Married,Male,austin40@adventure-works.com,60000,163-555-0134,7/30/2022,Beverly Hills
+11822,Rohinton,Wadia,Rohinton Wadia,12/11/1971,Married,Female,rohinton1@adventure-works.com,60000,792-555-0137,5/20/2022,Lincoln Acres
+11823,Morgan,Turner,Morgan Turner,10/20/1977,Married,Female,morgan3@adventure-works.com,70000,856-555-0168,5/18/2022,Metchosin
+11824,Jill,Martin,Jill Martin,10/3/1977,Married,Female,jill6@adventure-works.com,70000,884-555-0127,3/18/2022,Newton
+11825,Aimee,She,Aimee She,11/15/1971,Single,Female,aimee17@adventure-works.com,70000,137-555-0149,10/16/2020,Bellflower
+11826,Jessie,Alonso,Jessie Alonso,8/15/1971,Married,Female,jessie6@adventure-works.com,70000,579-555-0138,10/27/2020,Beverly Hills
+11827,Sara,Baker,Sara Baker,9/16/1980,Married,Female,sara43@adventure-works.com,60000,256-555-0180,2/20/2022,Newton
+11828,Katherine,Martinez,Katherine Martinez,6/4/1980,Married,Female,katherine88@adventure-works.com,70000,584-555-0118,4/3/2022,Milwaukie
+11829,Sophia,Campbell,Sophia Campbell,5/2/1975,Married,Female,sophia5@adventure-works.com,70000,766-555-0146,3/13/2022,Seattle
+11830,Taylor,Garcia,Taylor Garcia,7/15/1974,Married,Female,taylor63@adventure-works.com,80000,301-555-0163,9/29/2020,Lincoln Acres
+11831,Christian,Ross,Christian Ross,5/24/1975,Married,Male,christian18@adventure-works.com,80000,123-555-0152,10/27/2020,San Carlos
+11832,Zoe,Murphy,Zoe Murphy,4/1/1976,Single,Female,zoe13@adventure-works.com,40000,798-555-0157,2/18/2022,Walla Walla
+11833,Oscar,Price,Oscar Price,1/16/1982,Married,Male,oscar9@adventure-works.com,80000,389-555-0114,6/12/2022,Oak Bay
+11834,Fernando,Flores,Fernando Flores,4/20/1982,Single,Male,fernando55@adventure-works.com,80000,162-555-0175,10/22/2020,Mill Valley
+11835,Elijah,Russell,Elijah Russell,12/17/1970,Single,Male,elijah21@adventure-works.com,80000,188-555-0159,1/10/2022,Metchosin
+11836,Garrett,Travers,Garrett Travers,10/25/1970,Married,Male,garrett9@adventure-works.com,80000,879-555-0116,3/24/2022,Everett
+11837,Haley,Alexander,Haley Alexander,8/5/1976,Single,Female,haley38@adventure-works.com,80000,951-555-0164,10/13/2020,San Francisco
+11838,Justin,Rodriguez,Justin Rodriguez,8/9/1970,Single,Male,justin48@adventure-works.com,80000,211-555-0112,5/31/2022,Beaverton
+11839,Tyler,Brown,Tyler Brown,7/21/1976,Single,Male,tyler9@adventure-works.com,60000,801-555-0121,10/26/2020,Santa Monica
+11840,Julian,Patterson,Julian Patterson,5/13/1976,Married,Male,julian12@adventure-works.com,60000,603-555-0169,4/30/2022,Lincoln Acres
+11841,Sean,Nelson,Sean Nelson,9/13/1969,Married,Male,sean41@adventure-works.com,40000,314-555-0153,5/20/2022,Langley
+11842,Justin,Wilson,Justin Wilson,4/3/1970,Single,Male,justin38@adventure-works.com,50000,585-555-0152,5/12/2022,Olympia
+11843,Christy,Nara,Christy Nara,11/8/1975,Single,Female,christy34@adventure-works.com,50000,639-555-0189,2/7/2022,Beaverton
+11844,Michele,Alvarez,Michele Alvarez,10/6/1969,Single,Female,michele39@adventure-works.com,50000,103-555-0162,10/5/2022,Chula Vista
+11845,Natalie,Jones,Natalie Jones,2/15/1930,Single,Female,natalie71@adventure-works.com,30000,119-555-0148,2/13/2022,Shawnee
+11846,Savannah,Reed,Savannah Reed,12/13/1969,Single,Female,savannah18@adventure-works.com,50000,503-555-0151,4/28/2022,Long Beach
+11847,Cassidy,Diaz,Cassidy Diaz,5/31/1970,Single,Female,cassidy23@adventure-works.com,50000,323-555-0140,6/28/2022,Portland
+11848,Joshua,Lewis,Joshua Lewis,2/24/1975,Married,Male,joshua23@adventure-works.com,50000,365-555-0198,7/27/2022,Yakima
+11849,Faith,Reed,Faith Reed,3/13/1970,Single,Female,faith36@adventure-works.com,50000,727-555-0162,11/27/2022,La Jolla
+11850,Brooke,Ramirez,Brooke Ramirez,9/16/1980,Single,Female,brooke7@adventure-works.com,50000,729-555-0139,4/8/2022,Novato
+11851,Jada,Mitchell,Jada Mitchell,3/7/1969,Single,Female,jada23@adventure-works.com,60000,416-555-0196,6/16/2022,Concord
+11852,Kyle,Russell,Kyle Russell,4/23/1969,Single,Male,kyle15@adventure-works.com,60000,473-555-0199,7/10/2022,Lakewood
+11853,Grace,Jones,Grace Jones,11/15/1979,Single,Female,grace2@adventure-works.com,60000,388-555-0168,5/10/2022,Concord
+11854,Jason,Mitchell,Jason Mitchell,10/16/1973,Single,Male,jason40@adventure-works.com,60000,480-555-0139,10/25/2020,West Covina
+11855,Christian,Walker,Christian Walker,8/9/1974,Married,Male,christian44@adventure-works.com,60000,531-555-0113,4/27/2022,Burlingame
+11856,Seth,Hernandez,Seth Hernandez,2/13/1969,Married,Male,seth26@adventure-works.com,60000,195-555-0146,11/29/2022,Corvallis
+11857,Isabella,Young,Isabella Young,3/8/1974,Single,Female,isabella56@adventure-works.com,60000,747-555-0149,10/6/2022,Edmonds
+11858,Jordan,Coleman,Jordan Coleman,6/5/1968,Married,Male,jordan2@adventure-works.com,40000,996-555-0179,3/27/2022,San Gabriel
+11859,Blake,Garcia,Blake Garcia,3/8/1968,Married,Male,blake16@adventure-works.com,70000,713-555-0128,4/22/2022,Olympia
+11860,Nicole,Walker,Nicole Walker,7/9/1967,Married,Female,nicole23@adventure-works.com,70000,129-555-0165,7/3/2022,National City
+11861,Katherine,Carter,Katherine Carter,10/22/1967,Married,Female,katherine58@adventure-works.com,70000,572-555-0120,5/14/2022,Westminster
+11862,Olivia,Peterson,Olivia Peterson,9/11/1972,Single,Female,olivia40@adventure-works.com,40000,409-555-0135,5/16/2022,Everett
+11863,Jessica,Wood,Jessica Wood,4/10/1967,Married,Female,jessica26@adventure-works.com,60000,130-555-0137,9/3/2022,Sedro Woolley
+11864,Elizabeth,Thompson,Elizabeth Thompson,3/6/1967,Married,Female,elizabeth19@adventure-works.com,60000,465-555-0154,3/1/2022,Tacoma
+11865,Chloe,Rivera,Chloe Rivera,8/6/1966,Married,Female,chloe54@adventure-works.com,60000,372-555-0142,2/17/2022,National City
+11866,Lucas,Scott,Lucas Scott,12/30/1966,Married,Male,lucas46@adventure-works.com,60000,764-555-0119,2/18/2022,Glendale
+11867,Nathaniel,James,Nathaniel James,4/21/1971,Married,Male,nathaniel0@adventure-works.com,40000,112-555-0116,6/4/2022,National City
+11868,Jessica,Peterson,Jessica Peterson,1/31/1973,Single,Female,jessica17@adventure-works.com,70000,974-555-0184,2/2/2022,Vancouver
+11869,Kaitlyn,Adams,Kaitlyn Adams,5/1/1984,Single,Female,kaitlyn13@adventure-works.com,70000,512-555-0158,3/20/2022,Westminster
+11870,Jillian,Garcia,Jillian Garcia,7/10/1978,Single,Female,jillian15@adventure-works.com,70000,386-555-0159,7/20/2022,Burien
+11871,Dalton,Bennett,Dalton Bennett,8/12/1978,Single,Male,dalton46@adventure-works.com,70000,941-555-0138,2/23/2022,Lynnwood
+11872,Faith,Patterson,Faith Patterson,7/17/1978,Single,Female,faith9@adventure-works.com,60000,148-555-0143,10/21/2020,Glendale
+11873,Ryan,Zhang,Ryan Zhang,10/9/1972,Married,Male,ryan27@adventure-works.com,60000,295-555-0128,10/7/2020,Spring Valley
+11874,Adrian,Bell,Adrian Bell,3/6/1978,Single,Male,adrian15@adventure-works.com,60000,254-555-0175,7/19/2022,Woodland Hills
+11875,Jonathan,Brown,Jonathan Brown,1/31/1966,Married,Male,jonathan54@adventure-works.com,60000,108-555-0111,4/20/2022,Langford
+11876,Madison,White,Madison White,5/13/1966,Married,Female,madison13@adventure-works.com,60000,813-555-0171,6/19/2022,Oakland
+11877,Alexis,Diaz,Alexis Diaz,4/6/1966,Married,Female,alexis45@adventure-works.com,60000,409-555-0139,10/5/2022,Newport Beach
+11878,Christine,Nara,Christine Nara,2/4/1971,Married,Female,christine12@adventure-works.com,60000,792-555-0139,11/30/2022,Ballard
+11879,Edgar,Sai,Edgar Sai,9/30/1971,Married,Male,edgar6@adventure-works.com,60000,525-555-0117,2/27/2022,Beaverton
+11880,Melissa,Sanchez,Melissa Sanchez,2/16/1965,Married,Female,melissa40@adventure-works.com,60000,409-555-0153,4/10/2022,Salem
+11881,Richard,Mitchell,Richard Mitchell,1/20/1965,Married,Male,richard30@adventure-works.com,60000,142-555-0165,12/2/2022,Grossmont
+11882,Patrick,Stewart,Patrick Stewart,9/5/1975,Married,Male,patrick27@adventure-works.com,60000,115-555-0181,2/17/2022,Seattle
+11883,Hannah,Anderson,Hannah Anderson,2/10/1965,Married,Female,hannah9@adventure-works.com,70000,819-555-0146,2/21/2022,Burien
+11884,Latoya,Shen,Latoya Shen,4/22/1970,Married,Female,latoya2@adventure-works.com,80000,390-555-0186,2/17/2022,Ballard
+11885,Kurt,Sharma,Kurt Sharma,9/21/1970,Married,Male,kurt9@adventure-works.com,80000,146-555-0179,10/28/2020,Burlingame
+11886,Katelyn,Parker,Katelyn Parker,7/20/1963,Married,Female,katelyn30@adventure-works.com,60000,451-555-0135,10/28/2020,Santa Monica
+11887,Joseph,White,Joseph White,10/3/1963,Married,Male,joseph19@adventure-works.com,60000,149-555-0116,5/28/2022,Coronado
+11888,Aaron,Ross,Aaron Ross,12/18/1969,Married,Male,aaron3@adventure-works.com,60000,175-555-0139,3/18/2022,Cliffside
+11889,Blake,Patterson,Blake Patterson,11/25/1963,Single,Male,blake58@adventure-works.com,60000,473-555-0194,2/23/2022,Puyallup
+11890,Whitney,Lopez,Whitney Lopez,5/14/1964,Married,Female,whitney15@adventure-works.com,70000,307-555-0113,3/29/2022,Berkeley
+11891,Jamie,Liang,Jamie Liang,9/13/1969,Married,Female,jamie20@adventure-works.com,70000,138-555-0111,3/7/2022,Beverly Hills
+11892,Julio,Ortega,Julio Ortega,4/7/1975,Married,Male,julio23@adventure-works.com,90000,1 (11) 500 555-0180,9/4/2020,Rhodes
+11893,Orlando,Carlson,Orlando Carlson,8/9/1974,Married,Male,orlando18@adventure-works.com,90000,1 (11) 500 555-0111,8/31/2020,Sydney
+11894,Ann,Gonzalez,Ann Gonzalez,4/30/1980,Married,Female,ann23@adventure-works.com,100000,1 (11) 500 555-0118,9/22/2020,Hervey Bay
+11895,Dustin,Chander,Dustin Chander,1/18/1975,Married,Male,dustin16@adventure-works.com,100000,1 (11) 500 555-0196,9/12/2020,Gold Coast
+11896,Frank,Carlson,Frank Carlson,5/18/1975,Married,Male,frank26@adventure-works.com,100000,1 (11) 500 555-0160,9/1/2020,Springwood
+11897,Orlando,Ashe,Orlando Ashe,5/28/1974,Single,Male,orlando5@adventure-works.com,60000,1 (11) 500 555-0184,8/30/2020,South Melbourne
+11898,Angela,Henderson,Angela Henderson,12/31/1975,Married,Female,angela7@adventure-works.com,80000,1 (11) 500 555-0118,9/14/2020,Brisbane
+11899,Brenda,Perez,Brenda Perez,3/15/1976,Single,Female,brenda25@adventure-works.com,80000,1 (11) 500 555-0181,9/4/2020,Melton
+11900,Byron,Carlson,Byron Carlson,3/3/1981,Single,Male,byron12@adventure-works.com,90000,1 (11) 500 555-0115,9/21/2020,Newcastle
+11901,Stacy,Alvarez,Stacy Alvarez,8/18/1973,Single,Female,stacy6@adventure-works.com,60000,1 (11) 500 555-0171,9/10/2020,Darlinghurst
+11902,Drew,Pal,Drew Pal,9/14/1972,Married,Male,drew13@adventure-works.com,70000,1 (11) 500 555-0151,2/21/2022,Malabar
+11903,Kate,Raji,Kate Raji,10/21/1985,Single,Female,kate18@adventure-works.com,110000,1 (11) 500 555-0124,9/21/2020,Caloundra
+11904,Kaylee,Cook,Kaylee Cook,5/5/1986,Single,Female,kaylee18@adventure-works.com,110000,1 (11) 500 555-0188,9/17/2020,Geelong
+11905,Isaiah,Ramirez,Isaiah Ramirez,12/14/1974,Single,Male,isaiah6@adventure-works.com,110000,1 (11) 500 555-0177,8/29/2020,Hobart
+11906,Gabriella,Sanders,Gabriella Sanders,8/17/1972,Married,Female,gabriella1@adventure-works.com,80000,1 (11) 500 555-0115,9/10/2020,Brisbane
+11907,Sarah,Garcia,Sarah Garcia,3/7/1973,Single,Female,sarah18@adventure-works.com,80000,1 (11) 500 555-0145,9/28/2020,Wollongong
+11908,Rafael,Tang,Rafael Tang,1/8/1972,Single,Male,rafael27@adventure-works.com,80000,1 (11) 500 555-0157,9/19/2020,South Melbourne
+11909,Nichole,She,Nichole She,8/10/1971,Married,Female,nichole0@adventure-works.com,80000,1 (11) 500 555-0168,9/20/2020,Rockhampton
+11910,Jaclyn,Zheng,Jaclyn Zheng,12/10/1971,Married,Female,jaclyn21@adventure-works.com,80000,1 (11) 500 555-0117,10/9/2020,Goulburn
+11911,Rachael,Kapoor,Rachael Kapoor,5/15/1972,Married,Female,rachael1@adventure-works.com,80000,1 (11) 500 555-0149,6/1/2022,Geelong
+11912,Rachael,Sai,Rachael Sai,6/16/1971,Single,Female,rachael5@adventure-works.com,60000,1 (11) 500 555-0196,10/27/2020,Townsville
+11913,Rebecca,Robinson,Rebecca Robinson,12/9/1970,Married,Female,rebecca3@adventure-works.com,60000,648-555-0100,12/3/2022,Seaford
+11914,Meagan,Rana,Meagan Rana,5/5/1979,Single,Female,meagan11@adventure-works.com,70000,1 (11) 500 555-0118,10/18/2020,Port Macquarie
+11915,Philip,Carlson,Philip Carlson,9/13/1973,Single,Male,philip17@adventure-works.com,70000,1 (11) 500 555-0110,10/2/2020,Port Macquarie
+11916,Joe,Rana,Joe Rana,9/3/1976,Single,Male,joe14@adventure-works.com,70000,1 (11) 500 555-0177,10/1/2020,Warrnambool
+11917,Roy,Sanz,Roy Sanz,4/21/1971,Single,Male,roy40@adventure-works.com,70000,1 (11) 500 555-0156,10/27/2020,Darlinghurst
+11918,Kaylee,Hill,Kaylee Hill,8/31/1969,Married,Female,kaylee35@adventure-works.com,60000,1 (11) 500 555-0131,10/13/2020,Coffs Harbour
+11919,Warren,Andersen,Warren Andersen,8/17/1969,Married,Male,warren2@adventure-works.com,60000,1 (11) 500 555-0181,10/5/2020,Rockhampton
+11920,Adrienne,Gomez,Adrienne Gomez,2/24/1975,Single,Female,adrienne1@adventure-works.com,60000,1 (11) 500 555-0149,10/10/2020,Brisbane
+11921,Gilbert,Zhu,Gilbert Zhu,6/22/1970,Married,Male,gilbert11@adventure-works.com,60000,1 (11) 500 555-0127,9/19/2022,Cranbourne
+11922,James,Davis,James Davis,2/13/1985,Single,Male,james80@adventure-works.com,90000,483-555-0135,2/15/2022,Victoria
+11923,Sarah,Bryant,Sarah Bryant,4/21/1985,Married,Female,sarah42@adventure-works.com,60000,197-555-0118,2/12/2022,National City
+11924,Ian,Long,Ian Long,4/23/1985,Single,Male,ian50@adventure-works.com,60000,212-555-0171,10/26/2020,Novato
+11925,Ashlee,Jai,Ashlee Jai,5/5/1984,Single,Female,ashlee18@adventure-works.com,40000,547-555-0176,10/9/2020,Bellingham
+11926,Eduardo,Foster,Eduardo Foster,9/15/1983,Single,Male,eduardo60@adventure-works.com,40000,522-555-0169,5/4/2022,Oregon City
+11927,Nicole,Murphy,Nicole Murphy,1/21/1984,Single,Female,nicole32@adventure-works.com,40000,373-555-0118,1/9/2023,Sedro Woolley
+11928,Isabella,Morris,Isabella Morris,3/6/1984,Married,Female,isabella83@adventure-works.com,60000,693-555-0146,5/31/2022,El Cajon
+11929,Virginia,Gonzalez,Virginia Gonzalez,8/8/1962,Single,Female,virginia21@adventure-works.com,30000,1 (11) 500 555-0188,10/14/2020,St. Leonards
+11930,Jaclyn,Nara,Jaclyn Nara,10/31/1952,Married,Female,jaclyn40@adventure-works.com,20000,1 (11) 500 555-0177,10/14/2020,North Sydney
+11931,Marcus,Adams,Marcus Adams,5/12/1984,Single,Male,marcus34@adventure-works.com,70000,687-555-0170,2/16/2022,Palo Alto
+11932,Elizabeth,Coleman,Elizabeth Coleman,2/8/1984,Married,Female,elizabeth35@adventure-works.com,70000,400-555-0120,4/29/2022,Santa Monica
+11933,Mathew,Rubio,Mathew Rubio,9/1/1982,Single,Male,mathew17@adventure-works.com,40000,430-555-0126,10/13/2020,Bellingham
+11934,Justin,Shan,Justin Shan,4/13/1983,Single,Male,justin27@adventure-works.com,40000,215-555-0113,11/19/2020,Burien
+11935,Jessica,Taylor,Jessica Taylor,5/19/1983,Single,Female,jessica56@adventure-works.com,30000,144-555-0123,6/6/2022,Lebanon
+11936,Hunter,Clark,Hunter Clark,10/9/1982,Married,Male,hunter51@adventure-works.com,30000,121-555-0144,4/5/2022,Redmond
+11937,Devin,Perez,Devin Perez,12/3/1982,Married,Male,devin35@adventure-works.com,30000,500-555-0169,10/29/2020,Salem
+11938,Seth,Alexander,Seth Alexander,3/21/1983,Married,Male,seth67@adventure-works.com,60000,178-555-0186,3/7/2022,Daly City
+11939,Kevin,Washington,Kevin Washington,12/20/1982,Single,Male,kevin16@adventure-works.com,60000,970-555-0114,11/10/2020,Imperial Beach
+11940,Tyler,Miller,Tyler Miller,1/9/1983,Married,Male,tyler11@adventure-works.com,100000,456-555-0191,8/2/2022,Woodland Hills
+11941,Adam,Roberts,Adam Roberts,5/26/1982,Single,Male,adam34@adventure-works.com,60000,868-555-0122,8/7/2022,Woodburn
+11942,George,Gonzalez,George Gonzalez,12/11/1954,Married,Male,george25@adventure-works.com,20000,1 (11) 500 555-0181,10/15/2020,Newcastle
+11943,Dawn,Huang,Dawn Huang,8/27/1954,Married,Female,dawn7@adventure-works.com,20000,1 (11) 500 555-0154,10/18/2020,Warrnambool
+11944,Rachael,Rodriguez,Rachael Rodriguez,4/13/1956,Single,Female,rachael18@adventure-works.com,30000,1 (11) 500 555-0134,10/19/2020,Silverwater
+11945,Dennis,Huang,Dennis Huang,3/11/1986,Married,Male,dennis7@adventure-works.com,20000,183-555-0120,10/29/2020,Concord
+11946,Brandy,Saunders,Brandy Saunders,7/2/1956,Single,Female,brandy6@adventure-works.com,30000,1 (11) 500 555-0143,10/21/2020,Sydney
+11947,Jenny,Zheng,Jenny Zheng,4/20/1957,Single,Female,jenny21@adventure-works.com,30000,1 (11) 500 555-0162,10/13/2020,Rhodes
+11948,Tasha,Xu,Tasha Xu,10/7/1956,Married,Female,tasha5@adventure-works.com,30000,1 (11) 500 555-0194,9/6/2022,St. Leonards
+11949,Julia,Brooks,Julia Brooks,5/5/1986,Single,Female,julia63@adventure-works.com,70000,845-555-0143,7/16/2022,Torrance
+11950,Jordan,Carter,Jordan Carter,3/9/1985,Married,Female,jordan39@adventure-works.com,70000,609-555-0117,2/17/2022,Coronado
+11951,Lacey,Huang,Lacey Huang,2/3/1958,Married,Female,lacey18@adventure-works.com,40000,1 (11) 500 555-0121,8/20/2022,Melbourne
+11952,Dorothy,Robinson,Dorothy Robinson,3/22/1960,Single,Male,dorothy3@adventure-works.com,80000,423-555-0100,10/5/2020,Geelong
+11953,Courtney,Wright,Courtney Wright,3/3/1981,Single,Female,courtney16@adventure-works.com,40000,366-555-0162,2/9/2022,Milwaukie
+11954,Joseph,Garcia,Joseph Garcia,2/13/1981,Married,Male,joseph23@adventure-works.com,60000,594-555-0120,11/1/2020,Glendale
+11955,Gabriel,Green,Gabriel Green,10/2/1980,Single,Male,gabriel45@adventure-works.com,60000,149-555-0162,10/29/2020,Glendale
+11956,Alexandria,Sandberg,Alexandria Sandberg,8/30/1985,Single,Female,alexandria27@adventure-works.com,40000,998-555-0194,10/31/2020,Beverly Hills
+11957,Courtney,Hernandez,Courtney Hernandez,2/9/1979,Single,Female,courtney14@adventure-works.com,60000,424-555-0199,2/12/2022,Redmond
+11958,Dylan,Lal,Dylan Lal,7/6/1978,Single,Male,dylan28@adventure-works.com,70000,844-555-0156,6/16/2022,Bremerton
+11959,Elizabeth,Davis,Elizabeth Davis,10/5/1978,Single,Female,elizabeth9@adventure-works.com,70000,884-555-0119,3/23/2022,Lemon Grove
+11960,Ana,Griffin,Ana Griffin,12/31/1978,Single,Female,ana19@adventure-works.com,70000,377-555-0180,3/25/2022,Redmond
+11961,Anne,Alvarez,Anne Alvarez,12/22/1978,Single,Female,anne5@adventure-works.com,70000,297-555-0150,2/11/2022,Berkeley
+11962,Alexandra,Roberts,Alexandra Roberts,5/28/1982,Single,Female,alexandra47@adventure-works.com,60000,685-555-0149,8/11/2022,Bellflower
+11963,Antonio,Patterson,Antonio Patterson,12/10/1960,Married,Male,antonio10@adventure-works.com,80000,1 (11) 500 555-0197,10/22/2020,Coffs Harbour
+11964,Sharon,Salavaria,Sharon Salavaria,2/13/1967,Single,Male,sharon4@adventure-works.com,70000,109-555-0100,10/14/2020,East Brisbane
+11965,Katie,She,Katie She,4/18/1962,Single,Female,katie3@adventure-works.com,70000,1 (11) 500 555-0150,2/10/2022,Matraville
+11966,Rafael,Black,Rafael Black,2/13/1967,Single,Male,rafael44@adventure-works.com,70000,1 (11) 500 555-0147,11/1/2022,Bendigo
+11967,Latasha,Munoz,Latasha Munoz,8/10/1962,Single,Female,latasha7@adventure-works.com,80000,1 (11) 500 555-0118,10/23/2020,Hervey Bay
+11968,Kelsey,Becker,Kelsey Becker,4/19/1964,Single,Female,kelsey19@adventure-works.com,130000,1 (11) 500 555-0135,10/28/2020,Milsons Point
+11969,Randy,Xu,Randy Xu,1/22/1964,Single,Male,randy14@adventure-works.com,130000,1 (11) 500 555-0188,10/19/2020,Perth
+11970,Bailey,Collins,Bailey Collins,11/12/1984,Single,Female,bailey22@adventure-works.com,80000,968-555-0128,5/25/2022,W. Linn
+11971,Amanda,Adams,Amanda Adams,3/3/1979,Single,Female,amanda58@adventure-works.com,80000,592-555-0166,4/15/2022,Fremont
+11972,Katherine,Williams,Katherine Williams,9/20/1979,Married,Female,katherine73@adventure-works.com,60000,351-555-0197,11/9/2022,Edmonds
+11973,Caroline,Barnes,Caroline Barnes,8/3/1979,Single,Female,caroline5@adventure-works.com,60000,820-555-0119,2/27/2022,Renton
+11974,Randy,Sun,Randy Sun,8/7/1979,Single,Male,randy15@adventure-works.com,60000,156-555-0147,10/30/2022,Berkeley
+11975,Destiny,Garcia,Destiny Garcia,4/2/1980,Single,Female,destiny16@adventure-works.com,60000,928-555-0186,7/17/2022,Chula Vista
+11976,Audrey,Ramos,Audrey Ramos,5/22/1970,Single,Female,audrey19@adventure-works.com,120000,1 (11) 500 555-0176,10/25/2020,North Sydney
+11977,Bonnie,Jai,Bonnie Jai,11/19/1964,Married,Female,bonnie17@adventure-works.com,130000,1 (11) 500 555-0185,11/1/2020,Newcastle
+11978,Jackson,Washington,Jackson Washington,10/18/1977,Married,Male,jackson15@adventure-works.com,130000,644-555-0115,2/3/2022,Fremont
+11979,Christopher,Johnson,Christopher Johnson,11/5/1962,Married,Male,christopher25@adventure-works.com,80000,130-555-0198,2/14/2022,Victoria
+11980,Kimberly,Richardson,Kimberly Richardson,6/17/1963,Single,Female,kimberly13@adventure-works.com,60000,116-555-0182,9/23/2022,Santa Monica
+11981,Alexandria,Howard,Alexandria Howard,8/3/1962,Single,Female,alexandria33@adventure-works.com,60000,935-555-0120,4/9/2022,Everett
+11982,Alexandra,Foster,Alexandra Foster,10/2/1962,Single,Female,alexandra37@adventure-works.com,60000,278-555-0183,8/17/2022,San Diego
+11983,Cheryl,Ortega,Cheryl Ortega,2/24/1968,Married,Female,cheryl24@adventure-works.com,70000,354-555-0177,11/8/2020,Bellflower
+11984,Alex,Campbell,Alex Campbell,12/4/1962,Married,Male,alex35@adventure-works.com,80000,376-555-0156,2/15/2022,Oak Bay
+11985,Melanie,Hughes,Melanie Hughes,5/18/1963,Married,Female,melanie27@adventure-works.com,80000,909-555-0153,2/27/2022,Beaverton
+11986,Max,Alvarez,Max Alvarez,1/20/1969,Single,Male,max5@adventure-works.com,70000,1 (11) 500 555-0124,11/22/2020,Geelong
+11987,Diane,Vazquez,Diane Vazquez,5/26/1973,Married,Female,diane19@adventure-works.com,90000,1 (11) 500 555-0128,6/17/2022,South Melbourne
+11988,Kathryn,Chapman,Kathryn Chapman,2/17/1968,Single,Female,kathryn14@adventure-works.com,70000,1 (11) 500 555-0127,11/10/2020,Goulburn
+11989,Kara,Anand,Kara Anand,3/20/1984,Single,Female,kara20@adventure-works.com,70000,1 (11) 500 555-0130,11/3/2020,Hawthorne
+11990,Joanna,Vazquez,Joanna Vazquez,1/12/1968,Single,Female,joanna13@adventure-works.com,70000,1 (11) 500 555-0182,11/13/2020,Newcastle
+11991,Frederick,Martinez,Frederick Martinez,2/7/1968,Married,Male,frederick14@adventure-works.com,60000,1 (11) 500 555-0142,11/1/2020,Milsons Point
+11992,Tonya,Chande,Tonya Chande,6/9/1972,Single,Female,tonya14@adventure-works.com,60000,1 (11) 500 555-0177,11/17/2020,Brisbane
+11993,Rosa,Wang,Rosa Wang,9/12/1977,Single,Female,rosa1@adventure-works.com,60000,1 (11) 500 555-0178,11/13/2020,Goulburn
+11994,Leah,Hu,Leah Hu,10/18/1977,Single,Female,leah16@adventure-works.com,110000,1 (11) 500 555-0191,11/25/2020,Townsville
+11995,Kelvin,Carson,Kelvin Carson,12/12/1965,Married,Male,kelvin11@adventure-works.com,60000,1 (11) 500 555-0149,11/8/2020,Sunbury
+11996,Veronica,Srini,Veronica Srini,1/30/1966,Single,Female,veronica9@adventure-works.com,60000,1 (11) 500 555-0173,11/4/2020,Caloundra
+11997,Kristina,Kapoor,Kristina Kapoor,4/4/1971,Married,Female,kristina1@adventure-works.com,60000,1 (11) 500 555-0140,11/5/2020,Coffs Harbour
+11998,Donna,Sharma,Donna Sharma,2/7/1966,Married,Female,donna9@adventure-works.com,60000,1 (11) 500 555-0118,11/16/2020,Hawthorne
+11999,Johnny,Shan,Johnny Shan,12/3/1965,Married,Male,johnny11@adventure-works.com,60000,1 (11) 500 555-0145,11/10/2020,Newcastle
